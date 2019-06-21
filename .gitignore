@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+*.class
+.metadata
+npm-debug.log
+.settings
+Thumbs.db
+~$*
+Books
+JavaDev/.metadata
+JavaDev/*/.metadata
+JavaDev/*/.recommenders
+JavaDev/.recommenders
+JsDev/Repos

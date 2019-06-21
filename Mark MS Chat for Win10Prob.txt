@@ -1,0 +1,270 @@
+
+Mathew Paul Raj A End Chat
+ Microsoft Virtual Agent
+Hello At!
+I need some windows 10 install help
+
+I'm sorry, but I'm having a technical problem. Please use the options shown below to get in touch with Microsoft Customer Support.
+
+Talk to a person
+Mathew Paul Raj A has joined the chat
+Microsoft Answer Tech
+
+Thank you for contacting Microsoft Support. I am Mathew Paul Raj A. How can I help you today?
+
+Please be aware that if you switch apps or change focus to another window while working with us, you may get disconnected from your chat session. To ensure the best support experience, please stay active in this chat window.
+
+ok I'll be active in this window
+
+should I tell you why i'm looking for help
+
+Hi, how are you doing today?
+
+ok until win 10 install failed
+
+I am really sorry to hear that.
+
+Brand new solid state drive. Win 10 from a ms usb drive
+
+Alright.
+
+There is an error on the screen
+
+To confirm, are you performing fresh Windows 10 installation?
+
+that is correct
+
+Alright. May I know if you are installing Windows for the first time on a new hard drive?
+
+yes
+
+Perfect. 
+
+May I know what happens during the installation?
+
+Could you please help me with your name for better documentation purpose?
+
+yes, that is the purpose of this chat. I get a small Windows dialog ......
+
+The title of the dialog is Install Windows
+
+There is a Big Red X
+
+Red circle with White X actually
+
+The text of the message is.......
+
+Windows cannot access the installation sources. Verify that the installation sources are accessible and restart the installation
+
+I've done this twice.
+
+But there were also earlier messages. one asking if I was cancelling the install
+
+BTW im installing from a small USB drive from Microsoft
+
+Alright.
+
+Thank you for the information.
+
+May I know how you created the Windows 10 bootable USB?
+
+I did not create
+
+I bought
+
+in fact I was surprised when a DVD was not shipped
+
+Okay. 
+
+I can give all the info off the box it was shipped in
+
+Alright. May I know from were you have purchased the USB?
+
+It was gifted to my by a friend
+
+I don't have the purchase info just the packaging
+
+Alright. 
+
+Could you please help me with your name for better documentation purpose?
+
+Mark Atkinson
+
+Thank you, Mark.
+
+Mark this could be an issue with bootable USB.
+
+May I know if the PC in which you are trying to install had Windows on it?
+
+I opened the lap top up took out a running version of win 7 , put in the new driver for win 10. Started the machine with the usb drive in it
+
+so, this is truly a fresh clean install
+
+and I did not choose upgrade install. I made sure I was installing fresh
+
+Meanwhile, I have created a case reference for today’s session. Please make note of this number for future use it is valid for next 30 days, Case id :1458493030.
+
+ok thank you
+
+I'll have to write that down. can you give me a min
+
+Alright. To confirm, without USB are you able to get into desktop where windows 7 was installed before?
+
+Sure, take you time.
+
+back to the machine
+
+Alright.
+
+when the other drive is in , it will boot fine and operate very normally
+
+there was a point I wanted to make
+
+Okay.
+
+It seems as if in the process because I did see different windows at different times ( I tried the install multiple times ) that one window showed multiple drive devices or partitions. I didnt create them. They became visible the second time I installed. ...... I'm ........
+
+im wondering if there is a problem with partitions that were made that now cant be found
+
+In that case you can click on format and choose the bigger storage partition and install Windows on it.
+
+is there a requirement to format. That was never specified in any manner during the installation
+
+Yes, I could do that if I could navigate to that screen again. Now it doesn't get that far
+
+If the installation did not go through well then you need to format the drive and hen proceed with installation.
+
+So, how does one format the drive if I can't get to that window ?
+
+Let me help you with steps for installation. 
+
+ok
+
+I'm back to first screen
+
+Steps to initiate the Installation:
+
+1.Please plug in the flash drive and restart your computer, during restart process.
+2.Please keep tapping F8 or F2 or F12  so that it enter into boot menu.
+3.If flash drive is set as default then the installation will take place automatically.
+4.If not then click on boot order and select the boot sequence, and change the priority to 1. Click on save and exit.
+5.A black screen will appear on the screen stating 'Press any key to boot from USB'.
+6.Please tap any key on the keyboard.
+7.It will get you a window where you have to select language, time format and keyboard. Click on next.
+8.Enter the product key.
+9.Select the Windows edition.
+10.Accept the license.
+11.Please select the custom install option.
+12.If you are planning for clean installation, select the drive and format that particular drive.
+Note : (When you format the drive you will lose all the data and applications which is on your computer, it will completely wipe your computer).
+13.To create a new drive, click on new and allocate the size of the drive and click on apply.
+14.Select the drive and click on next.
+15.Windows 10 installation will start.
+
+
+wind setup 32 or 64
+
+so ive picked 64 bit and am setting language
+
+and click install now
+
+and I get the dialog that I told you about previously
+
+cannot access the installation sources
+
+Alright. 
+
+do you get the difficulty im experienceing now
+
+Mark, lets create a new Windows 10 bootable USB and try with that.
+
+ok how
+
+Steps to Create a Bootable Media:
+
+Plug in USB/ DVD which is of 8GB.
+To download an ISO and create a Bootable Media.
+1) Go to this is the link: https://www.microsoft.com/en-us/software-download
+2) please click on Windows 10.
+3) You will get an option as Download tool, click on it.
+4) Run the Download Tool.
+    You will see options: 
+>select "Create installation media for another PC"
+>Select language, architecture and edition of your PC in which you have issue.
+5)Next screen, click on : "create a USB drive"
+6)Please wait until windows downloads and your bootable media is created.
+
+
+well.......
+
+will I be able to download win10 pro as that is the product I have
+
+and......
+
+i dont have any usb drives available
+
+so thats not happening now
+
+let me see what I can download
+
+also, if I an download and create a bootable disk, I don't need usb
+
+Oh, I see. Yes, the ISO you will download from this tool will have Windows 10 pro in it. 
+
+Yes, but I would prefer you to create a bootable USB.
+
+no, I don't actually prefer the usb. I prefer dvd
+
+but there is now informaiton that has scrolled off the screen and I need to capture this info ... put my win7 machine back together and create a bootable disk. This is not likely to happen tonight for me.
+
+but I have the case ID and you said 30 days support on this issue correct ?
+
+Yes, you are correct. 
+
+I need to try to caputre all the text in thies message and write to a file
+
+give me a min here
+
+Alright, please copy all the information and paste it in note pad. 
+
+what about word
+
+Yes, you can chose that as well. 
+
+yea, notepad worked better. all the same color. I guess we're done for now. I've got 1458493030 as the case Id is that correct
+
+Perfect! Yes it is. 
+
+ok, I guess were done for now
+
+Mark, do you have any questions for me?
+
+None that I can think of at this time. I'm much more familiar installing from CD or DVD so I'll be able to use the Product key from this usb drive for doing installs with CD / DVD ?
+
+that was a question
+
+Still there ?
+
+I did have one question
+
+I am sorry.
+
+Yes, I am still here.
+
+will I be able to use the product key from usb on the installs I do from DVD ?
+
+For installing Window s10 you do not need a product key. You can click on skip this option.
+
+Both are same process.
+
+But I will at some point wont I
+
+After installation to activate your Windows 10 you need a key.
+
+and so,,,, will I be able to use the key from usb on the install from dvd ?
+
+Yes, you will be. 
+
+ok great. thank you for the help
+
+ 

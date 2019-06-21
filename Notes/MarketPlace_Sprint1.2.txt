@@ -1,0 +1,68 @@
+Notes during the planning meeting.
+
+
+Stories
+
+
+
+
+
+299
+Thisis the work of the stroy [ Late htis is going to split 3 stories]
+integration with work done by Hcentive
+and ui work
+Delta direct ppo all states
+[ 919 
+[
+[
+[
+[
+[
+
+
+218
+dit-ddins.deltadev.ent/shopping/v2/
+699
+Plan Highlights is the implrtant
+Story has good detail
+
+
+874  SPIKE  adobe analytics
+Click tracking
+Link tracking
+Doc tracking
+
+
+
+
+
+230 boiler plate for common modules
+to benefit another team Lucy is this a PD consumed story ?
+
+
+
+
+272 Heuristic analysis
+
+
+
+
+
+
+300  Document upload
+Somthing about the URL to identify the application ID 
+We don't evaluate the correctness of the file < content >
+Would not accept that I want to include 2 point
+
+
+
+
+
+
+
+
+Non Stories Notes:
+
+
+Feeling liek this planning meeting did not have enough prep time before the meeting
+Example Sticky header story discussion.  Manny is learning that the functionality of the module used already implemented most of the details of the 

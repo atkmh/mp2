@@ -1,0 +1,32 @@
+G: 2018 how do I get BASH for my win 10 PC
+https://www.google.com/search?q=2018+how+do+I+get+BASH+for+my+win+10+PC&rlz=1C1GCEB_en___US816&oq=2018+how+do+I+get+BASH+for+my+win+10+PC&aqs=chrome..69i57.17861j1j7&sourceid=chrome&ie=UTF-8&safe=active
+
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+https://docs.microsoft.com/en-us/windows/wsl/install-legacy
+https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/
+https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
+
+G: where is the windows subsystem for linux file system mounted
+https://www.google.com/search?q=where+is+the+windows+subsystem+for+linux+file+system+mounted&rlz=1C1GCEB_en___US816&oq=where+is+the+windows+subsystem+for+linux+file+system+mounted&aqs=chrome..69i57.26726j0j7&sourceid=chrome&ie=UTF-8&safe=active
+https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/
+https://superuser.com/questions/1109993/accessing-removable-media-in-bash-on-windows
+https://blogs.msdn.microsoft.com/wsl/2017/04/18/file-system-improvements-to-the-windows-subsystem-for-linux/
+https://askubuntu.com/questions/759880/where-is-the-ubuntu-file-system-root-directory-in-windows-subsystem-for-linux-an/810652
+
+
+
+VPN trouble shooting
+https://docs.microsoft.com/en-us/windows/wsl/troubleshooting
+
+
+
+
+
+
+
+
+
+
+
+
+

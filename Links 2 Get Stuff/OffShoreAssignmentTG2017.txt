@@ -1,0 +1,50 @@
+Assignment work over the holiday week.
+
+Shounak to finish writing up the  the subtasks for the allt he PD stories
+Team to either submit a single script to resolve a subtask
+or to submit code in a file that tests simlar things all together.
+
+Either way there must be clear documentation ( going in two directions ) 
+CXAUTO subtask must document which file name covers the work assigned.
+The Script .js file must in a comment identify the CXINIT2 story or task that is covered in the file.
+This obligation must be met in these two directions
+
+--------------------------
+MOT REGRESSION TEST CLEANUP:w
+Research and review the failure in the four suites of test used on MOT.
+
+prot_chrome ... slave3.js  and aqc_mot_conf.js  ( or what ever the conf file names are )
+
+Look at dhe2e, dpe2e, ahe2e, ape2e  suites.
+Run these suites.
+If there is a configuration that is different from acq_mot_conf.js  document clearly what needs to be 
+changes in acQ_mot_conf.js 
+If acq_mot_conf.js is a valid configuration.
+Then start researching what the test errors are that show up in th report files.
+
+We need to rework and remove all bugs from the MOT regression tests.
+
+
+PD Story Gap Analysis
+----------------------------
+
+If all assigned work is complete, and If time permits make a document that is a gap analysis 
+The gap would represent all remaining PD stories / features that are not yet identified as needing 
+test coverage, and are not yet listed and identified in a CXAUTO story.
+Possible range of stories would be in the sprints that we have not yet gotten to.
+
+Document format would be 
+Sprint NNN
+story number :  Story description     Yes Testable  |  NO Test
+ .
+ .
+ .
+
+
+Sprint XXX
+story number :  Story description     Yes Testable  |  NO Test
+ .
+ .
+ .
+
+

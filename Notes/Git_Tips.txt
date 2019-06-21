@@ -1,0 +1,114 @@
+8/9/18
+git how to tell what is committed but not pushed 
+git diff --stat origin/master..     I used git diff --stat origin/dev
+https://stackoverflow.com/questions/3967261/how-to-view-the-committed-files-you-have-not-pushed-yet
+
+6/14/18 
+an attempt to remove almost everything histroically 
+https://gist.github.com/stephenhardy/5470814#file-git-clearhistory-L4
+This didn't work at the push step
+so, I took the original most recent pull and moved all the current actual data.
+I copied off all the real data
+I deleted the repo,
+I recloned the repo
+I took all the real data copied off and put it directly in place
+inthe newly cloned repo
+git status identified 4 notes text files and maybe something else
+I did git add . and rechecked git status.
+Nothing showed being staged
+So, I'm figureing all is well
+ 
+
+6/1/18 
+How to tell if anything has ever changed on a branch
+git diff --name-only <branch name>
+
+4/24 from eamil on 1/19/18 to Shounak
+so, you make sure your on < yourName>branch.
+you Pull and make sure you 've got everything.
+You commit all your changes  to your branch and you push your branch.
+You check out the Dev Branch 
+you git pull and get all of dev
+then you git merge < your branch Name >
+
+4/24 git Tag  
+How do I command line my Master TAG ( how did I do it last time)
+http://gitready.com/beginner/2009/02/03/tagging.html
+$ git tag -a v1.0.0 -m "Creating the first official version."
+So I will do ....
+$ git tag -a v0.75 -m "Creating second TAG ???before roll out ???"
+
+
+
+3/8/18
+https://help.github.com/articles/caching-your-github-password-in-git/
+git config --global credential.helper wincred
+
+8/17/17
+Git Diff [[what I need to clarify for my self is 
+edited and not added. edited and added, edited and committeed. ]]
+In more recent versions of git, you can also use the --staged flag 
+(--staged is a synonym for --cached):
+
+For a list of files to be pushed, run:  
+git diff --stat --cached [remote/branch]
+via : https://stackoverflow.com/questions/3636914/how-can-i-see-what-i-am-about-to-push-with-git
+
+4/27/17  
+Also
+git branch -a retuens things  that 
+git ls-remote doesn't
+
+
+4/25/17
+Good instruciton on Configuraiton, before* & after*
+http://timothymartin.azurewebsites.net/protractor-before-and-afters/
+http://timothymartin.azurewebsites.net/promises-and-callbacks/
+
+4/20/17
+git ls-remote 
+will show the branches in the repo
+
+4/6/17
+git whatchanged  gives and interesting and useful look 
+at everything that has chaged in the repo.
+I use to see what's been done since I last committed 
+
+12/22/16
+List a Repo’s Branches ( All of them )
+git ls-remote --heads http://stash.dev.svbank.com/scm/mur/svb-web-payments.git
+From
+http://stackoverflow.com/questions/8223906/how-to-check-if-remote-branch-exists-on-a-given-remote-repository
+
+12/20/16
+git diff when the file name has changed
+git diff HEAD:./oldfilename newfilename
+Additionally
+git diff HEAD:path/to/oldfilename newfilename
+From:
+http://stackoverflow.com/questions/5730460/how-to-do-a-git-diff-on-moved-renamed-file
+
+10/14/16
+Getting rid of continual .metadata and .recommenders and any other such filesÉ..
+you need to add and commit every thing that you are interested inÉ.. 
+source files text , what evvah!
+This leaves behind all the Workspace .metadata/*  and workspace/project/.meta.. or recommendersÉ.  
+With this stuff as the only that is reported in git status changes not staged for commit:
+In this case they were all WorkSpace/.metadata/.* sooooÉ
+I did #git rm -rf JavaDev/.metadata   but the command instructed at 
+http://stackoverflow.com/questions/11451535/gitignore-not-working   had been git rm -r Ñcached
+It was the instruction to a similar problem.
+Removing the entire subdirectory from the REPO was EXACTLY what I really wanted to do.  I donÕt care about the metadata only the source
+
+
+git checkout - - <pathtofile>   the two dashes are supposed to be closer together    
+this will change the edits on the file back to unedited.
+
+Question to be answered: Does it take it out of modified or out of staged ?
+
+
+git log -2 <file>  puts out commit ID
+
+git diff commitID <file>  will show the difference between <file> and the stat at commitID
+
+

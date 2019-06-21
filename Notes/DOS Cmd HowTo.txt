@@ -1,0 +1,13 @@
+G: example batch file start a new command window start a batch file come back to original window
+https://www.google.com/search?q=example+batch+file+start+a+new+command+window+start+a+batch+file+come+back+to+original+window&rlz=1C1GCEB_en___US816&oq=example+batch+file+start+a+new+command+window+start+a+batch+file+come+back+to+original+window&aqs=chrome..69i57.47583j0j7&sourceid=chrome&ie=UTF-8&safe=active
+
+https://stackoverflow.com/questions/1103994/how-to-run-multiple-bat-files-within-a-bat-file
+
+[late]Somthing really interesting.  the above 1103994 stack url is not in the google solution any more
+
+
+I used this on the SACAPPSTAD01 Launch6 windows and start regression
+start cmd /k Call rc_hub.bat 4444
+start cmd /k Call rc_grid1.bat 5555
+start cmd /k Call rc_grid1.bat 6666
+start cmd /k Call rc_grid1.bat 5570.

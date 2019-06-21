@@ -1,0 +1,66 @@
+3/1/17 all solution / answere kind of entries were moved  to 
+protractor_SolutionsFound.  Was also renamed *Todo
+
+
+7/7/17
+
+Ofcourse you need wget on the slave pc in the test runner batch file
+GIT_URL=https://rc-github.deltads.ent/DEVPROJECTS/dd-cx-test/archive/master.zip
+wget --user=svc_qtp_testrunner_1 --password=popcorn --auth-no-challenge -O cx-test-sources.zip --no-check-certificate %GIT_URL%
+
+
+6/22/17
+All older version of Firefox can be found at
+https://ftp.mozilla.org/pub/firefox/releases/
+
+
+3/28/17
+Notes on what IE Options Im changing.
+using http://stackoverflow.com/questions/37456099/protractor-test-in-ie
+as my guide.  this will be current state -> to configured state
+
+4)In Security tab > Disable protected mode for all zones
+Internet ON->off  Restriced Sites ON->Off
+
+5)Navigate to Privacy tab TurnOff PopUp Blocker
+ON -> Off
+
+Advanced Tab )
+First set ided by box ON -> Off
+Empty Temp Internet files folder Off -> ON
+
+Warn section under TLS....
+Warn about cert addr mismatch ON -> off
+WArn if changeing between No Change
+Warn if Post submittal   ON -> off
+
+General Tab)
+Delete Browser Hist OFF - > On
+
+Security Tab )
+Internet Mid -> Bottom
+Local Intranet oneUP -> Bottom
+Trusted Sites  Middle -> Botton
+Restricted Site Top -> ( CANNOT Make this change )
+
+3/9/17
+this is a page about sendKeys(value);
+http://www.mythoughts.co.in/2012/12/sending-special-characters-and-key.html#.WL4KqFXyu73
+One key point about the page are all the Unicode values for Page_down, Arrow_down, space, tab, etc.
+
+Hers' one that fits into the list below:  Things I need to bone up on....
+https://www.sitepoint.com/beginners-guide-node-package-manager/
+
+https://www.npmjs.com/package/command-line-args
+
+
+
+1/20/17
+Need to get the following under my belt
+Js Call back concept
+Js Prot Jasmine Site, read
+Js github docs directory
+Js Promises
+Js .then
+
+

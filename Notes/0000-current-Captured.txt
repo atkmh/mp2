@@ -1,0 +1,18 @@
+3/19/19 Happy birthday Mom.  called her this morning need to give her peter komors cell number.
+
+phrase for CV  Highly interested in the artform of elegant technical solutions.
+Contientious Mentor, manager, leader, teacher. 
+Driven to build a supporting staff who can fill in leadership roles any time they are called upon.
+
+ddcxtest reports
+01 is me editing manually the crap out
+02 is after copying dashBoard out of ddcxtestApi
+Now I need to mod dashboard and kick out the gifs 
+03 I've edited the src http..... .jpg or gif or what ever the two of them were.
+03 left the box definitions in
+04 <img  and </img  removed from both sides
+05 made the piechart 85% but it didn't seem to affect its placement
+05 made pie chart 75% also tried to make the charts.js code local did not work  back to norm
+
+need to test with the special build file as well to make sure it puts text in...
+

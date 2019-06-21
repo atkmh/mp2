@@ -1,0 +1,75 @@
+General Tips
+Started 6/15/16
+
+3/8/117    -site:pintrest.com
+google for keep ***.com  filtered out of my search results
+
+Good Windows tip
+https://support.microsoft.com/en-us/help/950683/vcredist-from-vc-2008-installs-temporary-files-in-root-directory
+
+11/29/17
+my suites file abstraction
+https://testautomation-aditya.com/2016/12/27/how-to-externalize-suite-namespick-from-an-external-file-in-protractor/comment-page-1/#comment-98
+allows me to have external file referenced in my spec.conf.js file
+so the spec.conf.js isn't so large
+
+
+[‎4/‎13/‎2017 4:19 PM] Steven Hansen: 
+
+
+#UNIX App Admins <UNIXAppAdmins@delta.org>       The Unix App Team - responsible for applications on Linux and  Rundeck
+#Devops AppAuto <#DevopsAppAuto@delta.org>       My Team - Chef Github Artifactory - builds and deployments
+#Unix SysAdmins <Unix.SysAdmins@delta.org>       Unix SysAdmin responsible for Linux OS - on-premise and AWS
+#Infrastructure Automation <InfrastructureAutomation@delta.org>  THis team responsible for VMWare, IaaS & PaaS. So building VM's on premise and AW 
+
+
+
+Git Token
+e04d3d782737085fc2b2a820ed0fc5f91d20d886
+
+
+4/6/17 
+Git Bash At DD cannot see drive P in the devConnect destop
+Git Bash at DD on my local machine CAN see drive P.
+So, in the DevConnect Desktop session I had to do the following
+Map Drive P:  to folder \\Client\P$    
+Chris Pike at the help desk helped me do this
+Now I have drive P in my GitBash Shell window.
+
+3/28/17 
+Windows Open and HTML file from command line
+start file_name
+
+
+Windows VM License Expired: Refresh the license.
+Open windows prompt as Administrator:  C:\Windows\system32>slmgr /rearm
+this will reset the license
+
+Excel: Count unique entries in a column of numbers where there is lots of duplication.
+=sumproduct(1/countif(A2:A42,A2:A42))   some how a list is created,  the 1 and the devisor
+makes them fractions.  The Sum Product adds up the fractional value and you get the number of uniques
+
+
+MAC: Enable UTF-8 keyboard entry - Looking for Unicode Hex Input
+SysPrefs: Keyboard: InputSources: ->
+Click the + sign: Scroll to the bottom on the left ->
+Pick Others: On the right will ( should ) appear Unicode Hex Input: Select it ÔAddÕ:  Now it shows on the left
+as a keyboard you can select.  
+with option key held down, then d, 8, 3, d, d, c, a, 9
+should create a little smilyface Pile-of-Poo Character
+
+Gherkin Syntax
+http://docs.behat.org/en/v3.0/guides/1.gherkin.html
+
+Save Chrome UID/PID via javascript
+
+javascript:(function(){var%20ac,c,f,fa,fe,fea,x,y,z;ac="autocomplete";c=0;f=document.forms;for(x=0;x<f.length;x++){fa=f[x].attributes;for(y=0;y<fa.length;y++){if(fa[y].name.toLowerCase()==ac){fa[y].value="on";c++;}}fe=f[x].elements;for(y=0;y<fe.length;y++){fea=fe[y].attributes;for(z=0;z<fea.length;z++){if(fea[z].name.toLowerCase()==ac){fea[z].value="on";c++;}}}}alert("Enabled%20'"+ac+"'%20on%20"+c+"%20objects.");})();
+----------------------------------
+This came from 
+http://www.howtogeek.com/62980/how-to-force-your-browser-to-remember-passwords/
+
+Change Mac Screen shot output format permanently
+http://unix.stackexchange.com/questions/47407/cat-line-x-to-line-y-on-a-huge-file
+
+
+SVB HelpDesk INternal  47444 Phone number  can from sf

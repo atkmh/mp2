@@ -1,0 +1,139 @@
+# set -o vi
+
+alias svbhow='cat ~/.svbrc | grep how '
+alias s.c='source ~/.bashrc'
+alias visvb='vi ~/.svbrc'
+alias cpDotFiles='cp ~/.atkmhrc ~/Mark/Dotfiles ; cp ~/.bash_profile ~/Mark/Dotfiles ;cp ~/.svbrc ~/Mark/Dotfiles'
+alias runprotonqa='npm run protractor -- --params.env=qa'
+alias protractqa='npm run protractor -- --params.env=qa'
+alias runmock='npm run mock-protractor'
+alias datestr=' date +%m-%d-%Y_%H:%M:%S'
+alias gb='git branch'
+alias gs='git status'
+alias ga='git add'
+alias gp='git push'
+alias gcm='git commit -m'
+alias psefirefox='psefg Firefox.app'
+alias bashFuncs='tail -200 ~/.bashrc | grep "()"'
+alias catbash='cat ~/.bashrc'
+alias vibash='cd ; vi ./.bashrc'
+alias findfileHelp='echo " find . -name ‘*.java’ -print0 | xargs -0 grep \"grep for what evvah \" " '
+alias finddirHelp='echo " find . -type d -name ‘integration’ " '
+alias protractorlocalost=' echo "127.0.0.1 $(hostname)" | sudo tee -a /etc/hosts'
+alias catfunc='cat /Users/maatkins/.svbshellFuncs'
+alias lessfunc='less /Users/maatkins/.svbshellFuncs'
+alias funcal='catfunc | grep -i $1'
+alias vifunc='vi /Users/maatkins/.shellfuncsT2'
+alias vifunc3='vi /Users/maatkins/.shellfuncsT3'
+alias vifunc2='vi /Users/maatkins/.svbshellFunc2'
+alias whatCounts='funcal "Count()"'
+alias shelltestCounts='unitTestCountPayments; unitTestCountCoreUi;integrationTestCountMock;integrationTestCountE2E; integrationTestCountAll '
+alias qashellfuncs2tmp=' date > /tmp/MarkTestOut ;         testRunFuncs >> /tmp/MarkTestOut'
+alias shellfuncNames='echo;  grep "()" /Users/maatkins/.shellfuncsT2; echo'
+alias t3funcNames='echo;  grep "()" /Users/maatkins/.shellfuncsT3; echo'
+#######################
+#
+#   “for what evvah"  " '
+#
+######################
+alias genGitDiskImage='tree -La 2 > ~/Mark/myDiskStructure'
+alias mddate='mkdir $(date +%m-%d-%Y_%H-%M-%S)'
+alias getAutoTestRpt='cp /Volumes/dev/svb-web-payments/reports/integration/test-html-report.html .  '
+########################
+# 
+# Go cd to directories
+# go_2_directories
+#######################
+alias gost='cd src/test'
+alias godev='cd /Volumes/dev/'
+alias gosvb='cd /Volumes/dev/svb-web-payments'
+alias goschedpay='cd /Volumes/dev/svb-scheduler-payments'
+alias goservaccts='cd /Volumes/dev/svb-service-accounts'
+alias goservbank='cd /Volumes/dev/svb-service-bankinfo'
+alias goservclient='cd /Volumes/dev/svb-service-client'
+alias goservcsrf='cd /Volumes/dev/svb-service-csrf'
+alias goserventitle='cd /Volumes/dev/svb-service-entitlements'
+alias goservooba='cd /Volumes/dev/svb-service-ooba'
+alias goservpay='cd /Volumes/dev/svb-service-payments'
+alias goservsand='cd /Volumes/dev/svb-services-sandbox'
+alias gowebcoreui='cd /Volumes/dev/svb-web-core-ui'
+alias listgo2repos='grep -A 14 go_2_directories ~/.svbrc| head -15'
+
+alias gomacthumb='cd /Volumes/MACTHUMB1/'
+alias goautoReports='cd /Volumes/dev/svb-web-payments/reports/integration'
+alias gosvbrpt='cd /Volumes/dev/svb-web-payments/reports/integration'
+alias openTestRpt='gosvbrpt; open ./test*'
+alias gocoreui='cd /Volumes/dev/svb-web-core-ui'
+alias gomark='cd ~/Mark'
+alias goqascen='cd /Volumes/dev/svb-web-payments/integration/qaScenarios'
+alias goscen='cd /Volumes/dev/svb-web-payments/integration/scenarios'
+alias gotmphold='cd ~/Mark/tmp_hold'
+alias marknotes='cd ~/Mark/Notes'
+alias gonotes='cd ~/Mark/Notes'
+alias gobooks='cd ~/Books'
+alias gotmp='echo this is just here to prove a point '
+########################
+# 
+# SSH to QA Hosts
+# 
+#######################
+alias hostcommands='grep -A 13 "SSH to QA Hosts" ~/.svbrc'
+alias listqahosts='hostaqapache1; hostqaapache2; hostqatom1; hostqatom2  ; hostqqecpapp1 ; hostqaeccoh1 ; hostqaecoracle1 ; hostqaapp1 ; hostqaapp2 '
+alias hostaqapache1='echo  10.138.10.54 hostqaapache1'
+alias hostqaapache2='echo  10.138.10.55 hostqaapache2'
+alias hostqatom1='echo  10.138.10.56  hostqatom1'
+alias hostqatom2='echo  10.138.10.57  hostqatom2'
+alias hostqqecpapp1='echo  10.138.10.58 hostqaecapp1'
+alias hostqaeccoh1='echo   10.138.10.59 hostqaecapp2'
+alias hostqaecoracle1='echo  10.138.14.55 hostqaecoracle1'
+alias hostqaapp1='echo   10.138.30.40 hostqaapp1'
+alias hostqaapp2='echo   10.138.30.41 hostqaapp2 '
+alias sshtom1='ssh maatkins_r@10.138.10.56'
+alias sshtom2='ssh maatkins_r@10.138.10.57'
+########################
+# 
+# QA testing helpers
+# 
+#######################
+alias atestqa='gosvb ;how_toQaProtractor ; npm run protractor_qa -- --params.browsers=chrome --params.env=qa --suite=qaOnly '
+alias webPayUnitTest='sudo npm run test' 
+########################
+# 
+# QA TestAutomation Runners
+# 
+#######################
+alias mktestrpt='gosvb; gulp generateJasmineReport'
+alias gulptest='gosvb; gulp generateJasmineReport'
+alias e2eQc='gosvb; npm run protractor -- --params.browsers=chrome --params.env=qa'
+alias e2eDc='gosvb; npm run protractor -- --params.browsers=chrome --params.env=dev'
+alias e2eUc='gosvb; npm run protractor -- --params.browsers=chrome --params.env=uat1'
+alias e2eQachst='gosvb; npm run protractor -- --params.browsers=chrome --params.env=qa --stacktrace=true'
+alias e2eDevchst='gosvb; npm run protractor -- --params.browsers=chrome --params.env=dev --stacktrace=true'
+alias e2eUatchst='gosvb; npm run protractor -- --params.browsers=chrome --params.env=uat1 --stacktrace=true'
+
+alias getAutoTestRpt='cp /Volumes/dev/svb-web-payments/reports/integration/test-html-report.html .  '
+alias goAutoTestRpt='cd /Volumes/dev/svb-web-payments/reports/integration/'
+########################
+# 
+#  How to Section
+# 
+# 
+#######################
+alias how_showHiddenFiles='echo defaults write com.apple.finder AppleShowAllFiles YES '
+alias how_HideFiles='echo defaults write com.apple.finder AppleShowAllFiles NO '
+alias how_runProtractor=' echo npm run protractor -- --prams.env=qa'
+alias how_toBecomeRoot='echo $sudo su - <ent> then supply the sudo password  '
+alias how_toDiscardUnstagedChanges='echo git checkout path2/file2/revert'
+alias how_toQaProtractor='echo npm run protractor_qa -- --params.browsers=chrome --params.env=qa --suite=qaOnly'
+alias how_rename_remove='echo rename -x *.onHold  '
+alias how_rename_add='echo rename -a .onHold *'
+
+alias onHoldA='rename -a $1*.onHold '
+alias onHoldX='rename -s .onHold '' $1*'
+alias mvonhold='mv $1 $1.onHold'
+
+#################
+# 
+# end.
+#
+################

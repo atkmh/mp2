@@ -1,0 +1,148 @@
+Interview Christine Truong
+
+From oldest to most recent
+
+Cisco:  what were the biggest challenges implementing Java cli backend component wth Siebel EAI 
+		What data points were tracked in this system
+		How available was this tracking system.  How many users.  Network latency in the web app.
+		How much network engineering or design did you pickup while at Cisco
+		
+		
+MobiTV:	What are / were the more complicated details about createing test data.
+		How did you manage automated users system access control in your testing
+		What transport / communication protocol was used in your Backend REST API testing
+		What difficulties if any did you have with off shore:  How was it handled.
+		After SocialNet.com Solaris env, and MobiTV Linux env: what are your favorite Unix commands?
+		Describe the duration of release cycles.  What were the major hurdles to over come in product releases
+		
+Wells: 	Selenium Test Automation:  how are all the testcases managed.
+		Tell me about test case maintenance
+		Can you explain the Selenium Framework. Tell me about it.
+		
+		
+		
+Open:	Tell me about Continuous Integration
+		Tell me about how your CI integrated with Continuous delivery
+		
+		
+		
+		w
+What do I think
+
+So far kind of weak in here description.
+
+Doesn't seem shure of how to explain.
+tryign to explain Agile process that we already know
+had a hard time explaining test cases taht couldn't be released
+
+Speaking is nearly at a junior level
+
+Interestingly.......
+even thought she had a poor time explaining Page Object Model, she did explain the core parts well enough for me to think I could work with her at some level.  
+ 
+what did you think ?
+ 
+I"m still in but listing for a moment
+ 
+diminutive 
+ 
+yea, I get that
+ 
+i think she'd be good heads down and focused
+but i am not sure how innovative she'd be
+hard to tell in 30 minutes
+what's your take?
+ 
+she is not confident in what she want's to descripb
+She is describing at a junior level.  does not seem to know how to talk at different levels
+ 
+as in not a big picture person?
+ 
+Some people are good communicators .  They know how to talk with colleagues, how to speak to their managers and how to converse with Executives.  She hasn't figured that we know as much as she does and that she shouldn't try to explain the finer detail and just give a higher level explanation
+ 
+yes i can see what you mean... doesn't read people well
+ 
+Not particularly innovative.  Has had a great deal of support from engineering .... giving her the tools to use
+ 
+yeah my sense is she is a doer
+and would do well if she has that instruction
+but wojn't think too far out of the box
+or be able to antipate
+ 
+Shounak is sharing screen and we are asking for process to test an interrface
+ 
+ok
+ 
+Interestingly.......
+even thought she had a poor time explaining Page Object Model, she did explain the core parts well enough for me to think I could work with her at some level.  
+ 
+Shounak's skype died.  Our time is completed
+The following can't receive IMs right now: Debbie Rizzetto 
+
+
+
+Shounak: 
+Summary:
+·       Experience in Test Automation framework design and test automation development.
+o   Tell us more about the Test Automation Framework design
+o   When did you design a framework?
+o   Was it from scratch?
+o   What factors did you consider while designing the framework?
+·       Skills
+o   XPath
+§  Can you tell me what an XPath is?
+§  Why / how is it used in Test Automation?
+§  Do you know what XPath Axes is? Can you give me some examples of it?
+§  How do you find an element matching a certain text using XPath?
+·       Using Text() function in XPath
+o   JSON
+§  What is a JSON?
+§  When and how have you used JSON?
+§  Is an array a valid JSON?
+·       Wells Fargo
+o   Page Object Model
+§  What is a Page Object Model?
+§  What is the advantage of using one?
+o   Data Driven Testing
+§  Tell me more about this
+o   Selenium WebDriver
+§  Problems / pain-points with Selenium WebDriver
+o   TestNG
+§  Annotations
+§  Test Case prioritization
+§  Can you tell me what is the order of execution for Junit or TestNg annotations?
+·       @BeforeSuite – Execute First in Suite
+·       @BeforeTest – Execute before all Test methods
+·       @BeforeClass – Execute first in Class
+·       @BeforeMethod – Before Each and Every Test
+·       Hi, I am under Test
+·       @AfterMethod – After each Test
+·       @AfterClass – Execute last in Class
+·       @AfterTest – Execute after all Test Methods
+o   Responsible for manual testing as well as executing the automated test scripts
+§  What was the strategy around this?
+§  How much was manual? How much was automated?
+§  How frequently were automated tests run?
+§  Were they run on schedule? Mechanism to do that?
+§  Were they run after every build?
+o   Worked in collaboration with automation team on resolving automation issues
+§  What was the most difficult issue you resolved?
+o   Worked on simultaneous Agile projects while reporting to multiple Project Managers
+§  Were there conflict of priorities when working with multiple Agile teams?
+§  How did you manage them?
+·       MobiTV
+o   Wrote scripts in Python to automate test data creation in all test environments.
+§  Elaborate
+o   Contributed extensively to test cases automation of backend REST API using jersey, apache HTTP client as REST/HTTP client.
+§  Tell me more
+·       Open questions
+o   Randomly failing tests – How would you approach?
+o   Unstable environments
+o   Bug vs environment detection
+o   What to automate?
+·       Jira / Zephyr
+o   Was it used for Bug / Story creation?
+o   How were the stories / tests tracked w.r.t Test Scripts?
+o   How did you use to capture updates in functionality?
+Notes: 
+

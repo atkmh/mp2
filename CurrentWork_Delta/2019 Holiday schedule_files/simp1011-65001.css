@@ -1,0 +1,2097 @@
+.ms-toolbar {
+	COLOR: #000
+}
+.ms-viewtoolbar {
+	COLOR: #000
+}
+.ms-formtoolbar {
+	COLOR: #000
+}
+.ms-toolbar-togglebutton-on {
+	BORDER-TOP: #1c418c 1px solid; BORDER-RIGHT: #1c418c 1px solid; BORDER-BOTTOM: #1c418c 1px solid; BORDER-LEFT: #1c418c 1px solid; BACKGROUND-COLOR: #fffacc
+}
+TABLE.ms-toolbar {
+	BACKGROUND-IMAGE: url(toolgrad_simple.gif); BACKGROUND-COLOR: #dde4f4
+}
+TABLE.ms-viewtoolbar {
+	BACKGROUND-IMAGE: url(toolgrad_simple.gif); BACKGROUND-COLOR: #dde4f4
+}
+TABLE.ms-toolbar {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: #bad6dd 1px solid; BORDER-BOTTOM: #bad6dd 1px solid; BORDER-LEFT: #bad6dd 1px solid
+}
+TABLE.ms-viewtoolbar {
+	BORDER-TOP: medium none; BORDER-BOTTOM: medium none
+}
+.ms-listheader {
+	COLOR: #4f79cc; BACKGROUND-COLOR: #a9cbd3
+}
+.ms-menutoolbar {
+	BORDER-TOP: #badbe8 1px solid; BORDER-RIGHT: #badbe8 1px solid; BACKGROUND-IMAGE: url(listheadergrad_simple.gif); BORDER-BOTTOM: #839aa3 1px solid; BORDER-LEFT: #badbe8 1px solid; BACKGROUND-COLOR: #dde4f4
+}
+.ms-menutoolbar TD {
+	BORDER-TOP: #fff 1px solid; BORDER-BOTTOM: #eaf3ff 1px solid
+}
+.ms-menutoolbar TD A {
+	COLOR: #002672
+}
+.ms-listheaderlabel {
+	COLOR: #000
+}
+.ms-menutoolbar TD TD.ms-viewselector {
+	BORDER-TOP: #7e9ad3 1px solid; BORDER-RIGHT: #7e9ad3 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #7e9ad3 1px solid; BORDER-LEFT: #7e9ad3 1px solid; BACKGROUND-COLOR: #d8e1f2
+}
+.ms-menutoolbar TD TD.ms-viewselectorhover {
+	BORDER-TOP: #7e9ad3 1px solid; BORDER-RIGHT: #7e9ad3 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #7e9ad3 1px solid; BORDER-LEFT: #7e9ad3 1px solid; BACKGROUND-COLOR: #d8e1f2
+}
+.ms-toolbar TD TD.ms-viewselector {
+	BORDER-TOP: #7e9ad3 1px solid; BORDER-RIGHT: #7e9ad3 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #7e9ad3 1px solid; BORDER-LEFT: #7e9ad3 1px solid; BACKGROUND-COLOR: #d8e1f2
+}
+.ms-toolbar TD TD.ms-viewselectorhover {
+	BORDER-TOP: #7e9ad3 1px solid; BORDER-RIGHT: #7e9ad3 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #7e9ad3 1px solid; BORDER-LEFT: #7e9ad3 1px solid; BACKGROUND-COLOR: #d8e1f2
+}
+DIV.ms-viewselector {
+	BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+DIV.ms-viewselectorhover {
+	BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+DIV.ms-viewselector A {
+	COLOR: #000000
+}
+DIV.ms-viewselectorhover A {
+	COLOR: #000000
+}
+DIV.ms-viewselectorhover {
+	BACKGROUND-COLOR: #fff
+}
+.ms-bottompaging {
+	BACKGROUND: #dde4f4
+}
+.ms-bottompagingline1 {
+	BACKGROUND: #fff
+}
+.ms-bottompagingline2 {
+	DISPLAY: none
+}
+.ms-bottompagingline3 {
+	DISPLAY: none
+}
+.ms-paging {
+	COLOR: #002672
+}
+.ms-viewselect A:link {
+	COLOR: #002672
+}
+.ms-GRFontSize {
+	COLOR: #002672
+}
+HR {
+	COLOR: #3966bf
+}
+.ms-formlabel {
+	BORDER-TOP: #a9cbd3 1px solid; COLOR: #314c84
+}
+.ms-formdescription A {
+	COLOR: #002672
+}
+.ms-formvalidation {
+	COLOR: #ff0000
+}
+.ms-informationbar {
+	BORDER-TOP: #ffd980 1px solid; BORDER-RIGHT: #ffd980 1px solid; BORDER-BOTTOM: #ffd980 1px solid; BORDER-LEFT: #ffd980 1px solid; BACKGROUND-COLOR: #efebc2
+}
+.ms-formbody {
+	BORDER-TOP: #bad6dd 1px solid; BACKGROUND: #f0f5f7
+}
+.ms-formline {
+	BORDER-TOP: #a9cbd3 1px solid
+}
+.ms-formbutton {
+	BORDER-TOP: #666666 1px solid; BORDER-RIGHT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #666666 1px solid
+}
+.ms-formdescription {
+	COLOR: #666666
+}
+TABLE.ms-form TH {
+	COLOR: #2d5199
+}
+.ms-inputuserfield {
+	BORDER-TOP: #8c8c8c 1px solid; BORDER-RIGHT: #8c8c8c 1px solid; BORDER-BOTTOM: #8c8c8c 1px solid; BORDER-LEFT: #8c8c8c 1px solid
+}
+.ms-rtelong {
+	BORDER-TOP: #8c8c8c 1px solid; BORDER-RIGHT: #8c8c8c 1px solid; BORDER-BOTTOM: #8c8c8c 1px solid; BORDER-LEFT: #8c8c8c 1px solid
+}
+.ms-rtelonger {
+	BORDER-TOP: #8c8c8c 1px solid; BORDER-RIGHT: #8c8c8c 1px solid; BORDER-BOTTOM: #8c8c8c 1px solid; BORDER-LEFT: #8c8c8c 1px solid
+}
+.ms-bannerContainer {
+	BACKGROUND-IMAGE: url(siteTitleBKGD_simple.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: right bottom
+}
+TD.ms-globalbreadcrumb {
+	BORDER-BOTTOM: #badbe8 1px solid
+}
+.ms-globalbreadcrumb {
+	HEIGHT: 20px; BACKGROUND-COLOR: #ffffff
+}
+.ms-globalbreadcrumb {
+	COLOR: #4c4c4c
+}
+.ms-globalbreadcrumb A {
+	COLOR: #4c4c4c
+}
+.ms-globallinks {
+	COLOR: #4c4c4c
+}
+.ms-globallinks A {
+	COLOR: #4c4c4c
+}
+.ms-pagebreadcrumb {
+	BORDER-TOP: #eee 1px solid; BORDER-LEFT: medium none; BACKGROUND-COLOR: #eee
+}
+.ms-pagebreadcrumb A {
+	BACKGROUND-COLOR: transparent
+}
+.ms-banner {
+	VERTICAL-ALIGN: bottom
+}
+.ms-siteaction {
+	COLOR: #4c4c4c
+}
+.ms-siteaction A {
+	COLOR: #4c4c4c
+}
+TABLE.ms-siteaction TD.ms-siteaction {
+	BORDER-RIGHT: #cecece 1px solid
+}
+TABLE.ms-siteaction TD.ms-siteaction DIV {
+	BORDER-RIGHT: #ffffff 1px solid
+}
+.ms-actionbar {
+	BORDER-TOP: 1px; BORDER-RIGHT: 1px; BORDER-BOTTOM: 1px; BORDER-LEFT: 1px
+}
+.ms-actionsep {
+	BORDER-RIGHT: 1px
+}
+.ms-topnavContainer {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: #ebebeb 1px solid
+}
+.ms-topNavFlyOuts {
+	BACKGROUND-COLOR: #f2f8ff
+}
+.ms-topNavFlyOutsHover {
+	BACKGROUND-COLOR: #ffe6a0
+}
+.ms-topnav {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #ebebeb 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #ebebeb 0px solid; BORDER-LEFT: #ffffff 1px solid; BACKGROUND-COLOR: #fff
+}
+.ms-topnavselected {
+	BORDER-TOP: #bfbfbf 1px solid; BORDER-RIGHT: #bfbfbf 1px solid; BACKGROUND: url(http://localhost/topnavselected_simple.gif) #d1d1d1 repeat-x; BORDER-BOTTOM: #bfbfbf 0px solid; COLOR: #003399; BORDER-LEFT: #fff 1px solid
+}
+.ms-topnavselected A {
+	COLOR: #003399
+}
+.ms-topNavHover {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #ebebeb 1px solid; BACKGROUND-IMAGE: url(http://localhost/topnavhover_simple.gif); BORDER-BOTTOM: #ebebeb 0px solid; BACKGROUND-POSITION: left bottom; COLOR: #000000; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #fff
+}
+.ms-nav TH {
+	COLOR: #000000
+}
+.ms-quicklaunchnavsep {
+	BACKGROUND-COLOR: transparent
+}
+.ms-quicklaunch TABLE TD {
+	BORDER-TOP: #fff 1px solid
+}
+.ms-quicklaunch TABLE.ms-navheader {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none
+}
+.ms-quicklaunch TABLE.ms-navheader TD {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #eee
+}
+TABLE.ms-recyclebin TD {
+	BORDER-TOP: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #eee
+}
+TABLE.ms-recyclebin TD A {
+	COLOR: #002672
+}
+TABLE.ms-navitem TD {
+	BACKGROUND: url(navBullet_simple.gif) no-repeat
+}
+SPAN.ms-navitem {
+	BACKGROUND: url(navBullet_simple.gif) no-repeat
+}
+.ms-treeviewouter TD.ms-navitem {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 4px; BORDER-LEFT: medium none; PADDING-RIGHT: 4px
+}
+.ms-navsubmenu1 {
+	BORDER-BOTTOM: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-navsubmenu2 {
+	BACKGROUND-COLOR: transparent
+}
+TABLE.ms-navselected TD {
+	BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid
+}
+.ms-navheader A {
+	COLOR: #002672
+}
+.ms-navheader A:hover {
+	COLOR: #000000
+}
+.ms-navitem A {
+	COLOR: #002672
+}
+.ms-navitem A:hover {
+	COLOR: #000000
+}
+.ms-quicklaunchouter {
+	BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none
+}
+.ms-quicklaunch {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: 0px; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-quicklaunchheader {
+	BORDER-TOP: #badbe8 1px solid; BORDER-RIGHT: #badbe8 1px solid; BACKGROUND-IMAGE: url(quickLaunchHeader_simple.gif); BORDER-BOTTOM: #badbe8 1px solid; COLOR: #002672; BORDER-LEFT: #badbe8 1px solid; BACKGROUND-COLOR: transparent
+}
+.ms-quicklaunchheader A {
+	COLOR: #002672
+}
+.ms-quicklaunchheader A:hover {
+	COLOR: #000000
+}
+.ms-storMeUsed {
+	BACKGROUND: #89b4bf
+}
+.ms-storMeFilterBar {
+	BACKGROUND: #89b4bf
+}
+.ms-navline {
+	BORDER-BOTTOM: #adadad 1px solid
+}
+.ms-navwatermark {
+	COLOR: #cce2e8
+}
+.ms-selectednav {
+	BORDER-TOP: #1c418c 1px solid; BORDER-RIGHT: #1c418c 1px solid; BACKGROUND: #fff699; BORDER-BOTTOM: #1c418c 1px solid; BORDER-LEFT: #1c418c 1px solid
+}
+.ms-GRSortFilter {
+	BORDER-TOP: #1c418c 1px solid; BORDER-RIGHT: #1c418c 1px solid; BACKGROUND: #fff699; BORDER-BOTTOM: #1c418c 1px solid; BORDER-LEFT: #1c418c 1px solid
+}
+.ms-unselectednav {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none
+}
+.ms-verticaldots {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-nav {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: transparent
+}
+.ms-relatedtable {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND: #f4f4f4; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none
+}
+.ms-relatedheader {
+	COLOR: #ffffff
+}
+.ms-relatedtext {
+	COLOR: #002672
+}
+.ms-relatedtext A:visited {
+	COLOR: #002672
+}
+.ms-relatedtext A:link {
+	COLOR: #002672
+}
+.ms-relatedtext A:active {
+	COLOR: #002672
+}
+.ms-relatedtext A:hover {
+	COLOR: #002672
+}
+.ms-globalTitleArea {
+	BACKGROUND-IMAGE: url(siteTitleBKGD_simple.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.ms-globalTitleAreaSeparator {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #badbe8
+}
+.ms-titlearea {
+	COLOR: #4c4c4c
+}
+.ms-titlearea A {
+	COLOR: #002672
+}
+.ms-titlearea A:hover {
+	COLOR: #000000
+}
+TD.ms-titleareaframe {
+	BACKGROUND-IMAGE: url(pageTitleBKGD_simple.gif); BACKGROUND-COLOR: #ffffff
+}
+DIV.ms-titleareaframe {
+	BACKGROUND-IMAGE: url(pageTitleBKGD_simple.gif); BACKGROUND-COLOR: #ffffff
+}
+.ms-pagetitleareaframe {
+	BACKGROUND-IMAGE: url(pageTitleBKGD_simple.gif); BACKGROUND-COLOR: #ffffff
+}
+.ms-titlearearight .ms-areaseparatorright {
+	BACKGROUND-IMAGE: url(pageTitleBKGD_simple.gif); BACKGROUND-COLOR: #ffffff
+}
+.ms-mwspagetitleareaframe {
+	BACKGROUND-IMAGE: url(pageTitleBKGD_simple.gif); BACKGROUND-COLOR: #ffffff
+}
+TD.ms-mwstitlearealine {
+	BACKGROUND-COLOR: #fff
+}
+.ms-titlearealine {
+	
+}
+.ms-storMeEstimated {
+	
+}
+.ms-pagetitleareaframe TABLE {
+	BACKGROUND-IMAGE: none
+}
+.ms-titleareaseparator {
+	BACKGROUND-COLOR: transparent
+}
+.ms-titleareaseparator DIV {
+	BORDER-TOP: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-areaseparatorcorner {
+	BORDER-RIGHT: #a9cbd3 1px solid; BACKGROUND-IMAGE: url(pageTitleBKGD_simple.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #ffffff
+}
+.ms-areaseparatorleft {
+	BORDER-RIGHT: #a4d6e3 1px solid; BACKGROUND-IMAGE: none; BACKGROUND-COLOR: transparent
+}
+TD.ms-areaseparatorleft {
+	BORDER-RIGHT: #a4d6e3 1px solid; BACKGROUND-IMAGE: none; BACKGROUND-COLOR: transparent
+}
+DIV.ms-areaseparatorleft {
+	BORDER-RIGHT: #a4d6e3 1px solid; BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #fff
+}
+DIV.ms-areaseparatorright {
+	BACKGROUND-IMAGE: none; BORDER-LEFT: #a4d6e3 1px solid; BACKGROUND-COLOR: transparent
+}
+DIV.ms-areaseparatorright {
+	BACKGROUND-IMAGE: none; BORDER-LEFT: #a4d6e3 1px solid; BACKGROUND-COLOR: transparent
+}
+.ms-titlearearight DIV.ms-areaseparatorright {
+	BORDER-LEFT: #a4d6e3 1px solid
+}
+.ms-areaseparator {
+	BACKGROUND-IMAGE: url(formtitlegrad_simple.gif); BACKGROUND-COLOR: #dbe2f1
+}
+.ms-pagemargin {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND-COLOR: transparent
+}
+TD.ms-rightareacell DIV.ms-pagemargin {
+	BORDER-LEFT-WIDTH: 0px; BACKGROUND-IMAGE: none; BACKGROUND-COLOR: transparent
+}
+.ms-pagebottommargin {
+	DISPLAY: none
+}
+.ms-pagebottommarginright {
+	DISPLAY: none
+}
+.ms-pagebottommarginleft {
+	DISPLAY: none
+}
+.ms-pagebottommarginright {
+	DISPLAY: none
+}
+.ms-bodyareapagemargin {
+	DISPLAY: none
+}
+.ms-bodyareaframe {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-viewareaframe {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-pagetitle {
+	COLOR: #000000
+}
+.ms-selected {
+	BORDER-TOP: #89b4bf 1px solid; BORDER-BOTTOM: #89b4bf 1px solid; BACKGROUND-COLOR: #89b4bf
+}
+.ms-descriptiontext {
+	COLOR: #666666
+}
+.ms-dspadapterlist {
+	COLOR: #666666
+}
+.ms-alerttext {
+	COLOR: #ff0000
+}
+.ms-separator {
+	COLOR: 
+}
+.ms-separator IMG {
+	BORDER-RIGHT: #eff3fa 1px solid; BACKGROUND: #aeaeae; BORDER-BOTTOM: #eff3fa 1px solid
+}
+.ms-authoringcontrols {
+	COLOR: #000; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-propertysheet TH.ms-authoringcontrols {
+	BACKGROUND-COLOR: #f0f5f7
+}
+.ms-sectionheader {
+	COLOR: #2d5199
+}
+.ms-linksectionheader {
+	COLOR: 
+}
+TD.ms-linksectionheader {
+	BORDER-TOP: #a9cbd3 1px solid; BORDER-RIGHT: #a9cbd3 1px solid; BORDER-BOTTOM: #a9cbd3 1px solid; BORDER-LEFT: #a9cbd3 1px solid; BACKGROUND-COLOR: #cce2e8
+}
+.ms-sectionheader A {
+	COLOR: #002672
+}
+.ms-sectionheader A:hover {
+	COLOR: #002672
+}
+.ms-sectionheader A:visited {
+	COLOR: #002672
+}
+.ms-sectionline {
+	BACKGROUND-COLOR: #a9cbd3
+}
+.ms-partline {
+	BACKGROUND-COLOR: #bad6dd
+}
+.ms-propertysheet {
+	COLOR: #666666
+}
+.ms-propertysheet TH {
+	COLOR: #666666
+}
+.ms-propertysheet A {
+	COLOR: #002672
+}
+.ms-pageinformation TH {
+	COLOR: #4f79cc
+}
+.ms-createpageinformation TH {
+	COLOR: #4f79cc
+}
+.ms-informationtablehover {
+	BORDER-TOP: #ffffff 2px solid; BORDER-RIGHT: 2px outset; BORDER-BOTTOM: 2px outset; BORDER-LEFT: #ffffff 2px solid; BACKGROUND-COLOR: #cce2e8
+}
+.ms-pageinformationheader {
+	COLOR: #000000
+}
+.ms-itemheader A {
+	COLOR: #002672
+}
+.ms-itemhover {
+	BORDER-TOP: #d2b47a 1px solid; BORDER-RIGHT: #d2b47a 1px solid; BACKGROUND-REPEAT: repeat-x; BORDER-BOTTOM: #d2b47a 1px solid; BORDER-LEFT: #d2b47a 1px solid; BACKGROUND-COLOR: #ffe6a0
+}
+.ms-itemhover A {
+	COLOR: #000
+}
+.ms-itemhover A:hover {
+	TEXT-DECORATION: underline; COLOR: #000
+}
+.ms-listdescription {
+	BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 3px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.ms-alternating .ms-unselectedtitle {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.ms-alternating .ms-vb-user TABLE {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+A.ms-addnew {
+	COLOR: #2d5199
+}
+.ms-summarytitlebarframe {
+	BACKGROUND-COLOR: #1c418c
+}
+IMG.thumbnail {
+	BORDER-TOP: #99bfc9 3px solid; BORDER-RIGHT: #99bfc9 3px solid; BORDER-BOTTOM: #99bfc9 3px solid; BORDER-LEFT: #99bfc9 3px solid
+}
+TR.ms-imglibselectedrow {
+	BACKGROUND-COLOR: #f4f4f4
+}
+TR.ms-highlight {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.ms-imglibthumbnail {
+	BORDER-TOP: #99bfc9 0px solid; BORDER-RIGHT: #99bfc9 0px solid; BORDER-BOTTOM: #99bfc9 0px solid; BORDER-LEFT: #99bfc9 0px solid; BACKGROUND-COLOR: #d8d8d8
+}
+.ms-imglibmenuarea {
+	BACKGROUND-COLOR: #ffffff
+}
+.UserShadedRegion {
+	BACKGROUND-COLOR: #fffacc
+}
+.UserCaption {
+	BACKGROUND-COLOR: transparent
+}
+.UserConfiguration {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.UserDottedLine {
+	BACKGROUND-COLOR: #2d5199
+}
+.UserNotification {
+	COLOR: #666666
+}
+.UserToolbarTextArea A:link {
+	COLOR: #002672
+}
+.UserToolbarTextArea A:visited {
+	COLOR: #002672
+}
+.UserToolbarDisabledLink {
+	COLOR: #666666
+}
+.UserToolbarImage {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.UserSectionTitle {
+	BORDER-BOTTOM: #2d5199 1px solid
+}
+.UserSectionFooter {
+	BORDER-TOP: #2d5199 1px solid
+}
+.UserCellSelected {
+	BORDER-TOP: #1c418c 1px solid; BORDER-RIGHT: #1c418c 1px solid; BORDER-BOTTOM: #1c418c 1px solid; BORDER-LEFT: #1c418c 1px solid; BACKGROUND-COLOR: #fff699
+}
+.ms-ToolPaneFrame {
+	
+}
+.ms-ToolPaneHeader {
+	BACKGROUND-COLOR: #1c418c
+}
+.ms-ToolPaneBorder {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none
+}
+.ms-ToolPaneClose {
+	BACKGROUND-COLOR: #1c418c
+}
+.ms-ToolPaneTitle {
+	BACKGROUND-COLOR: #1c418c
+}
+.ms-ToolPaneFooter {
+	BACKGROUND-COLOR: #f2f2f2
+}
+.ms-ToolPaneInfo {
+	BACKGROUND-COLOR: #314044
+}
+.ms-ToolStripSelected {
+	BORDER-TOP: #1c418c 1px solid; BORDER-RIGHT: #1c418c 1px solid; BORDER-BOTTOM: #1c418c 1px solid; BORDER-LEFT: #1c418c 1px solid; BACKGROUND-COLOR: #fff699
+}
+.ms-ToolStrip {
+	BORDER-TOP: #89b4bf 1px solid; BORDER-RIGHT: #89b4bf 1px solid; BORDER-BOTTOM: #89b4bf 1px solid; BORDER-LEFT: medium none; BACKGROUND-COLOR: #cce2e8
+}
+.ms-TPHeader {
+	BACKGROUND-COLOR: #cce2e8
+}
+.ms-TPTitle {
+	COLOR: #083772
+}
+.ms-TPBody A:link {
+	COLOR: #002672
+}
+.ms-TPBody A:visited {
+	COLOR: #002672
+}
+.ms-TPBody A:hover {
+	COLOR: #002672
+}
+.ms-TPInput {
+	COLOR: #000000
+}
+.ms-PropGridBuilderButton {
+	BORDER-TOP: #2d5199 1px solid; BORDER-RIGHT: #2d5199 1px solid; BORDER-BOTTOM: #2d5199 1px solid; BORDER-LEFT: #2d5199 1px solid; BACKGROUND-COLOR: transparent
+}
+.ms-BuilderBackground {
+	BACKGROUND: #d3d3d3
+}
+.ms-SPZone {
+	BORDER-TOP: #666666 1px solid; BORDER-RIGHT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #666666 1px solid
+}
+.ms-SPZoneSelected {
+	BORDER-TOP: #00ff00 1px solid; BORDER-RIGHT: #00ff00 1px solid; BORDER-BOTTOM: #00ff00 1px solid; BORDER-LEFT: #00ff00 1px solid
+}
+.ms-SPZoneIBar {
+	BORDER-TOP: #00ff00 3px solid; BORDER-RIGHT: #00ff00 3px solid; BORDER-BOTTOM: #00ff00 3px solid; BORDER-LEFT: #00ff00 3px solid
+}
+.ms-SPZoneLabel {
+	COLOR: #666666
+}
+.ms-SPZoneCaption {
+	COLOR: #666666
+}
+.ms-WPDesign {
+	BACKGROUND-COLOR: transparent
+}
+.ms-WPMenu {
+	BACKGROUND-COLOR: transparent
+}
+.ms-WPTitle {
+	COLOR: #002672
+}
+.ms-WPTitle A:link {
+	COLOR: #002672
+}
+.ms-WPTitle A:visited {
+	COLOR: #002672
+}
+.ms-WPTitle A:hover {
+	COLOR: #000
+}
+.ms-WPSelected {
+	BORDER-TOP: #ffbb77 3px dashed; BORDER-RIGHT: #ffbb77 3px dashed; BORDER-BOTTOM: #ffbb77 3px dashed; BORDER-LEFT: #ffbb77 3px dashed
+}
+.ms-WPBody A:link {
+	COLOR: #002672
+}
+.ms-WPBody A:visited {
+	COLOR: #002672
+}
+.ms-WPBorder {
+	BORDER-TOP-COLOR: #a9cbd3; BORDER-LEFT-COLOR: #a9cbd3; BORDER-BOTTOM-COLOR: #a9cbd3; BORDER-RIGHT-COLOR: #a9cbd3
+}
+.ms-HoverCellActive {
+	BACKGROUND-COLOR: #bad6dd
+}
+.ms-HoverCellActiveDark {
+	BORDER-TOP: #cce2e8 1px solid; BORDER-RIGHT: #cce2e8 1px solid; BORDER-BOTTOM: #cce2e8 1px solid; BORDER-LEFT: #cce2e8 1px solid; BACKGROUND-COLOR: #bad6dd
+}
+.ms-SPLink {
+	COLOR: #002672
+}
+.ms-SPLink A:link {
+	COLOR: #002672
+}
+.ms-SPLink A:visited {
+	COLOR: #002672
+}
+.ms-WPHeader TD {
+	BORDER-BOTTOM: #badbe8 1px solid
+}
+.ms-SPZone .ms-WPHeader TD {
+	BORDER-TOP: #d8d8d8 1px solid; BORDER-RIGHT: #d8d8d8 1px solid; BACKGROUND-IMAGE: url(partgrad_simple.gif); BORDER-BOTTOM: #d8d8d8 1px solid; BORDER-LEFT: #d8d8d8 1px solid; BACKGROUND-COLOR: #e9f4f6
+}
+.ms-SPZoneSelected .ms-WPHeader TD {
+	BORDER-TOP: #d8d8d8 1px solid; BORDER-RIGHT: #d8d8d8 1px solid; BACKGROUND-IMAGE: url(partgrad_simple.gif); BORDER-BOTTOM: #d8d8d8 1px solid; BORDER-LEFT: #d8d8d8 1px solid; BACKGROUND-COLOR: #e9f4f6
+}
+.ms-underline {
+	BORDER-BOTTOM: #cecece 1px solid
+}
+.ms-underlineback {
+	BORDER-BOTTOM: #cecece 1px solid; BACKGROUND-COLOR: #f4f4f4
+}
+.ms-back {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.ms-smallsectionline {
+	BORDER-BOTTOM: #cecece 1px solid
+}
+.ms-tabselected {
+	BORDER-BOTTOM: #6f9dd9 1px solid; COLOR: #002672
+}
+.ms-tabinactive {
+	BORDER-TOP: #c2dcff 1px solid; BORDER-RIGHT: #c2dcff 1px solid; BORDER-BOTTOM: #c2dcff 1px solid; BACKGROUND-POSITION: 0px 4px; COLOR: #002672; BORDER-LEFT: #c2dcff 1px solid; BACKGROUND-COLOR: transparent
+}
+.ms-tabinactive A:link {
+	COLOR: #002672
+}
+.ms-tabinactive A:hover {
+	COLOR: #002672
+}
+.ms-tabinactive A:visited {
+	COLOR: #002672
+}
+.ms-surveyHBar {
+	BACKGROUND-COLOR: #2d5199
+}
+.ms-surveyHBarB {
+	BACKGROUND-COLOR: #cccccc
+}
+.ms-surveyVBar {
+	BACKGROUND-COLOR: #2d5199
+}
+.ms-surveyVBarB {
+	BACKGROUND-COLOR: #cccccc
+}
+.ms-surveyVBarBI {
+	BACKGROUND-COLOR: #2d5199
+}
+.ms-surveyVBarT {
+	COLOR: #666666
+}
+.ms-surveyVBarTC {
+	COLOR: #666666
+}
+.ms-surveyHR {
+	COLOR: #cccccc
+}
+.ms-surveyTotal {
+	COLOR: #666666
+}
+.ms-uploadborder {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none
+}
+.ms-uploadcontrol {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.ms-stylebox {
+	BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid
+}
+.ms-stylelabel {
+	COLOR: #666666
+}
+.ms-styleheader {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.ms-styleheader A:link {
+	COLOR: #002672
+}
+.ms-stylebody A:link {
+	COLOR: #002672
+}
+.ms-MWSInstantiated A:link {
+	COLOR: #002672
+}
+.ms-MWSInstantiated A:visited {
+	COLOR: #002672
+}
+.ms-MWSInstantiated A:hover {
+	COLOR: #89b4bf
+}
+.ms-MWSUninstantiated A:link {
+	COLOR: #002672
+}
+.ms-MWSUninstantiated A:visited {
+	COLOR: #002672
+}
+.ms-MWSUninstantiated A:hover {
+	COLOR: #002672
+}
+.ms-ganttDetailTimeUnitRow TD {
+	BORDER-TOP: #666666 1px solid; BORDER-RIGHT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #666666 1px solid
+}
+.ms-ganttMajorTimeUnitHeaderRow TD {
+	BORDER-RIGHT: #666666 1px solid; BORDER-LEFT: #666666 1px solid
+}
+.ms-infobar {
+	BORDER-TOP-COLOR: #7f7f7f; BORDER-LEFT-COLOR: #7f7f7f; BORDER-BOTTOM-COLOR: #7f7f7f; BORDER-RIGHT-COLOR: #7f7f7f
+}
+.ms-unpublishedresource {
+	BORDER-TOP-COLOR: #ff0000; BORDER-LEFT-COLOR: #ff0000; BORDER-BOTTOM-COLOR: #ff0000; BORDER-RIGHT-COLOR: #ff0000
+}
+.ms-webpartpickerpageinnerbackground {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.ms-webpartpickerpagetext {
+	COLOR: #656b77
+}
+.ms-webpartpickerpagetext A {
+	COLOR: #002672
+}
+.ms-webpartpickerpageHeaderBorder A {
+	COLOR: #002672
+}
+.ms-wikicontent A {
+	COLOR: #47a9c1
+}
+.ms-wikieditouter {
+	BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid
+}
+.ms-wikieditbutton A {
+	COLOR: #666666
+}
+.ms-diffinsert {
+	BACKGROUND-COLOR: #ccffcc
+}
+.ms-diffchange {
+	BACKGROUND-COLOR: #ffffcc
+}
+.ms-PostTitle A {
+	COLOR: #002672
+}
+.ms-PostFooter A {
+	COLOR: #002672
+}
+.ms-PostTitle A:hover {
+	COLOR: #ffbb77
+}
+.ms-PostFooter A:hover {
+	COLOR: #ffbb77
+}
+.ms-PostFooter {
+	COLOR: #5781d6
+}
+H1.ms-PostDate {
+	BORDER-BOTTOM: #badbe8 1px solid
+}
+H2.ms-CommentTitle {
+	COLOR: #4c4c4c
+}
+.ms-blogrssnav {
+	BORDER-TOP-WIDTH: 0px
+}
+.ms-blogedit {
+	BORDER-TOP: 1px solid
+}
+.ms-blogedit A {
+	BORDER-TOP: 0px solid; BORDER-RIGHT: 1px solid; BORDER-BOTTOM: 1px solid; BORDER-LEFT: 1px solid
+}
+TABLE.ms-picker-table {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-quicklaunch TABLE.ms-picker-table TD {
+	BORDER-TOP-WIDTH: 0px
+}
+.ms-picker-header .ms-picker-table {
+	BACKGROUND: url(quickLaunchHeader_simple.gif) repeat-x; COLOR: #002672
+}
+.ms-picker-header TABLE.ms-picker-table {
+	BORDER-TOP: #badbe8 1px solid; BORDER-RIGHT: #badbe8 1px solid; BORDER-BOTTOM: #badbe8 1px solid; BORDER-LEFT: #badbe8 1px solid
+}
+.ms-picker-table .ms-picker-dayheader {
+	BORDER-BOTTOM: #ffffff 1px solid; TEXT-ALIGN: center; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #eee
+}
+.ms-picker-week {
+	BORDER-TOP: #ff0000 1px solid; BACKGROUND-IMAGE: none; BORDER-LEFT: #ff0000 1px solid
+}
+.ms-picker-week A {
+	COLOR: #002672
+}
+.ms-picker-weekRTL {
+	BORDER-TOP: #ff0000 1px solid; BORDER-RIGHT: #ff0000 1px solid; BACKGROUND-IMAGE: none
+}
+.ms-picker-weekRTL A {
+	COLOR: #002672
+}
+.ms-picker-weekselected {
+	BACKGROUND-COLOR: #ff0000
+}
+.ms-picker-weekselected A {
+	TEXT-DECORATION: underline; COLOR: #f00
+}
+.ms-picker-weekselected A:hover {
+	TEXT-DECORATION: underline; COLOR: #f00
+}
+.ms-picker-weekselectedRTL {
+	BACKGROUND-COLOR: #ff0000
+}
+.ms-picker-weekselectedRTL A {
+	COLOR: #ff0000
+}
+.ms-picker-weekselectedRTL A:hover {
+	COLOR: #ff0000
+}
+TABLE.ms-picker-table TD.ms-picker-today {
+	BORDER-TOP: #ff9932 1px solid; BORDER-RIGHT: #ff9932 1px solid; BORDER-BOTTOM: #ff9932 1px solid; BORDER-LEFT: #ff9932 1px solid
+}
+TABLE.ms-picker-table TD.ms-picker-dayother {
+	BORDER-TOP: #eee 1px solid; BORDER-RIGHT: #eee 1px solid; BORDER-BOTTOM: #eee 1px solid; BORDER-LEFT: #eee 1px solid
+}
+TABLE.ms-picker-table TD.ms-picker-daycenterOn {
+	BORDER-TOP: #eee 1px solid; BORDER-RIGHT: #eee 1px solid; BORDER-BOTTOM: #eee 1px solid; BORDER-LEFT: #eee 1px solid
+}
+TABLE.ms-picker-table TD.ms-picker-daycenter {
+	BORDER-TOP: #eee 1px solid; BORDER-RIGHT: #eee 1px solid; BORDER-BOTTOM: #eee 1px solid; BORDER-LEFT: #eee 1px solid
+}
+.ms-picker-daycenter A {
+	COLOR: #002672
+}
+.ms-picker-today A {
+	COLOR: #002672
+}
+.ms-picker-dayselected A {
+	COLOR: #002672
+}
+.ms-picker-table .ms-picker-daycenterOn {
+	BACKGROUND-COLOR: #ffc68e
+}
+TABLE.ms-picker-table TD.ms-picker-dayselected {
+	BORDER-TOP-COLOR: #eeeeee; BORDER-LEFT-COLOR: #eeeeee; BORDER-BOTTOM-COLOR: #eeeeee; BORDER-RIGHT-COLOR: #eeeeee; BACKGROUND-COLOR: #99bfc9
+}
+.ms-quicklaunch TABLE.ms-picker-table TD.ms-picker-monthcenter {
+	BORDER-TOP: #eeeeee 1px solid; BORDER-RIGHT: #eeeeee 1px solid; BORDER-BOTTOM: #eeeeee 1px solid; COLOR: #7f7f7f; BORDER-LEFT: #eeeeee 1px solid; BACKGROUND-COLOR: #eeeeee
+}
+.ms-picker-monthcenter A {
+	COLOR: #002672
+}
+.ms-picker-monthcenter A:active {
+	COLOR: #002672
+}
+.ms-picker-monthcenter A:link {
+	COLOR: #002672
+}
+.ms-picker-monthcenter A:visited {
+	COLOR: #002672
+}
+.ms-picker-monthcenter A:hover {
+	COLOR: #002672
+}
+.ms-quicklaunch TABLE.ms-picker-table TD.ms-picker-monthcenterOn {
+	BORDER-TOP: #eeeeee 1px solid; BORDER-RIGHT: #eeeeee 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #eeeeee 1px solid; BORDER-LEFT: #eeeeee 1px solid; BACKGROUND-COLOR: #ffc68e
+}
+.ms-quicklaunch TABLE.ms-picker-table TD.ms-picker-monthselected {
+	BORDER-TOP: #eeeeee 1px solid; BORDER-RIGHT: #eeeeee 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #eeeeee 1px solid; BORDER-LEFT: #eeeeee 1px solid; BACKGROUND-COLOR: #99bfc9
+}
+TABLE.ms-picker-table TD.ms-picker-footer {
+	BORDER-TOP: #ffffff 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.ms-picker-footer A {
+	COLOR: #002672
+}
+.ms-picker-line {
+	BORDER-TOP: #ff0000 2px solid
+}
+.ms-navframe .ms-datepickerouter {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid
+}
+.ms-calheader {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.ms-cal-navselected A {
+	COLOR: #000000
+}
+.ms-cal-navselected A:hover {
+	COLOR: #000000
+}
+.ms-cal-nav A {
+	COLOR: #2d5199
+}
+.ms-cal-nav A:hover {
+	COLOR: #000000
+}
+.ms-cal-weekempty {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-weekemptyRLT {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-weekname {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-weekday {
+	BACKGROUND-COLOR: transparent
+}
+.ms-cal-week {
+	BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-weekB {
+	BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-weekRTL {
+	BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-weekRTLB {
+	BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid; BACKGROUND-IMAGE: none; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-weekselected {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: #bad6dd 1px solid; BORDER-BOTTOM: #bad6dd 1px solid; BORDER-LEFT: #bad6dd 1px solid; BACKGROUND-COLOR: #ffda8a
+}
+.ms-cal-weekselectedRTL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: #bad6dd 1px solid; BORDER-BOTTOM: #bad6dd 1px solid; BORDER-LEFT: #bad6dd 1px solid; BACKGROUND-COLOR: #ffda8a
+}
+.ms-cal-weekselected A {
+	COLOR: #000000
+}
+.ms-cal-weekselectedRTL A {
+	COLOR: #000000
+}
+.ms-cal-weekbox {
+	BACKGROUND-IMAGE: none; COLOR: #8c8c8c
+}
+.ms-cal-weekboxRTL {
+	BACKGROUND-IMAGE: none; COLOR: #8c8c8c
+}
+.ms-cal-topday {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; COLOR: #deeef2; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-topdayRTL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; COLOR: #deeef2; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-topdayL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; COLOR: #deeef2; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-topdayRTLL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; COLOR: #deeef2; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-wtopdayL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; COLOR: #deeef2; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-wtopday {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; COLOR: #deeef2; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-wtopdayRTL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; COLOR: #deeef2; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-wtopdayRTLL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; COLOR: #deeef2; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-topday DIV {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-topdayRTL DIV {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-topdayL DIV {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-topdayRTLL DIV {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-wtopdayL DIV {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-wtopday DIV {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-wtopdayRTL DIV {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-wtopdayRTLL DIV {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-topday-today {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffc68e
+}
+.ms-cal-wtopday-today {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffc68e
+}
+.ms-cal-topday-today DIV {
+	BORDER-TOP: #ff9932 2px solid; BORDER-RIGHT: #ff9932 2px solid; BORDER-BOTTOM: #ff9932 2px solid; BORDER-LEFT: #ff9932 2px solid
+}
+.ms-cal-wtopday-today DIV {
+	BORDER-TOP: #ff9932 2px solid; BORDER-RIGHT: #ff9932 2px solid; BORDER-BOTTOM: #ff9932 2px solid; BORDER-LEFT: #ff9932 2px solid
+}
+.ms-cal-topday-todayover DIV {
+	BORDER-TOP: #ff9932 2px solid; BORDER-RIGHT: #ff9932 2px solid; BORDER-BOTTOM: #ff9932 2px solid; BORDER-LEFT: #ff9932 2px solid
+}
+.ms-cal-wtopday-todayover DIV {
+	BORDER-TOP: #ff9932 2px solid; BORDER-RIGHT: #ff9932 2px solid; BORDER-BOTTOM: #ff9932 2px solid; BORDER-LEFT: #ff9932 2px solid
+}
+.ms-cal-topday-todayover {
+	BACKGROUND-COLOR: #ffc68e
+}
+.ms-cal-wtopday-todayover {
+	BACKGROUND-COLOR: #ffc68e
+}
+.ms-cal-topdayover {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #bad6dd
+}
+.ms-cal-topdayoverL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #bad6dd
+}
+.ms-cal-topdayoverRTLL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #bad6dd
+}
+.ms-cal-wtopdayover {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #bad6dd
+}
+.ms-cal-wtopdayoverL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #bad6dd
+}
+.ms-cal-wtopdayoverRTLL {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #bad6dd
+}
+.ms-cal-topdayfocusover {
+	BORDER-TOP: #bad6dd 1px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #bad6dd
+}
+.ms-cal-topdayover DIV {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; BORDER-LEFT: medium none
+}
+.ms-cal-topdayoverL DIV {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; BORDER-LEFT: medium none
+}
+.ms-cal-topdayoverRTLL DIV {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; BORDER-LEFT: medium none
+}
+.ms-cal-wtopdayover DIV {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; BORDER-LEFT: medium none
+}
+.ms-cal-wtopdayoverL DIV {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; BORDER-LEFT: medium none
+}
+.ms-cal-wtopdayoverRTLL DIV {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; BORDER-LEFT: medium none
+}
+.ms-cal-topdayfocusover DIV {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; BORDER-LEFT: medium none
+}
+.ms-cal-topdayfocus {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #99bfc9
+}
+.ms-cal-topdayfocusL {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #99bfc9
+}
+.ms-cal-topdayfocusRTLL {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #99bfc9
+}
+.ms-cal-wtopdayfocus {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #99bfc9
+}
+.ms-cal-wtopdayfocusL {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #99bfc9
+}
+.ms-cal-wtopdayfocusRTLL {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-IMAGE: none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #99bfc9
+}
+.ms-cal-topdayfocus DIV {
+	BORDER-TOP: #cce2e8 1px solid; BORDER-RIGHT: #cce2e8 1px solid; BORDER-BOTTOM: #cce2e8 1px solid; COLOR: #ffffff; BORDER-LEFT: #cce2e8 1px solid
+}
+.ms-cal-topdayfocusL DIV {
+	BORDER-TOP: #cce2e8 1px solid; BORDER-RIGHT: #cce2e8 1px solid; BORDER-BOTTOM: #cce2e8 1px solid; COLOR: #ffffff; BORDER-LEFT: #cce2e8 1px solid
+}
+.ms-cal-topdayfocusRTLL DIV {
+	BORDER-TOP: #cce2e8 1px solid; BORDER-RIGHT: #cce2e8 1px solid; BORDER-BOTTOM: #cce2e8 1px solid; COLOR: #ffffff; BORDER-LEFT: #cce2e8 1px solid
+}
+.ms-cal-wtopdayfocus DIV {
+	BORDER-TOP: #cce2e8 1px solid; BORDER-RIGHT: #cce2e8 1px solid; BORDER-BOTTOM: #cce2e8 1px solid; COLOR: #ffffff; BORDER-LEFT: #cce2e8 1px solid
+}
+.ms-cal-wtopdayfocusL DIV {
+	BORDER-TOP: #cce2e8 1px solid; BORDER-RIGHT: #cce2e8 1px solid; BORDER-BOTTOM: #cce2e8 1px solid; COLOR: #ffffff; BORDER-LEFT: #cce2e8 1px solid
+}
+.ms-cal-wtopdayfocusRTLL DIV {
+	BORDER-TOP: #cce2e8 1px solid; BORDER-RIGHT: #cce2e8 1px solid; BORDER-BOTTOM: #cce2e8 1px solid; COLOR: #ffffff; BORDER-LEFT: #cce2e8 1px solid
+}
+.ms-cal-topday A {
+	COLOR: #000000
+}
+.ms-cal-topday A:active {
+	COLOR: #000000
+}
+.ms-cal-topday A:link {
+	COLOR: #000000
+}
+.ms-cal-topday A:visited {
+	COLOR: #000000
+}
+.ms-cal-topday A:hover {
+	COLOR: #000000
+}
+.ms-cal-topdayL A {
+	COLOR: #000000
+}
+.ms-cal-topdayL A:active {
+	COLOR: #000000
+}
+.ms-cal-topdayL A:link {
+	COLOR: #000000
+}
+.ms-cal-topdayL A:visited {
+	COLOR: #000000
+}
+.ms-cal-topdayL A:hover {
+	COLOR: #000000
+}
+.ms-cal-topdayRTL A {
+	COLOR: #000000
+}
+.ms-cal-topdayRTL A:active {
+	COLOR: #000000
+}
+.ms-cal-topdayRTL A:link {
+	COLOR: #000000
+}
+.ms-cal-topdayRTL A:visited {
+	COLOR: #000000
+}
+.ms-cal-topdayRTL A:hover {
+	COLOR: #000000
+}
+.ms-cal-topdayRTLL A {
+	COLOR: #000000
+}
+.ms-cal-topdayRTLL A:active {
+	COLOR: #000000
+}
+.ms-cal-topdayRTLL A:link {
+	COLOR: #000000
+}
+.ms-cal-topdayRTLL A:visited {
+	COLOR: #000000
+}
+.ms-cal-topdayRTLL A:hover {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTLL A {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTLL A:active {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTLL A:link {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTLL A:visited {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTLL A:hover {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTL A {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTL A:active {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTL A:link {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTL A:visited {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedRTL A:hover {
+	COLOR: #000000
+}
+.ms-cal-topdayselectedL A {
+	COLOR: #000000
+}
+ms-cal-topdayselectedl A:active {
+	COLOR: #000000
+}
+ms-cal-topdayselectedl A:link {
+	COLOR: #000000
+}
+ms-cal-topdayselectedl A:visited {
+	COLOR: #000000
+}
+ms-cal-topdayselectedl A:hover {
+	COLOR: #000000
+}
+.ms-cal-topdayselected A {
+	COLOR: #000000
+}
+.ms-cal-topdayselected A:active {
+	COLOR: #000000
+}
+.ms-cal-topdayselected A:link {
+	COLOR: #000000
+}
+.ms-cal-topdayselected A:visited {
+	COLOR: #000000
+}
+.ms-cal-topdayselected A:hover {
+	COLOR: #000000
+}
+.ms-cal-nodataLeft {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #e3e9f7
+}
+.ms-cal-nodataLeftRTL {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent
+}
+.ms-cal-nodataMid {
+	BORDER-RIGHT: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-nodataLeft {
+	BORDER-RIGHT: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-nodataLeftBtm {
+	BORDER-RIGHT: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-nodataLeftBtmRTL {
+	BORDER-RIGHT: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-nodataLeftBtm2 {
+	BORDER-RIGHT: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-nodataLeftBtmRTL2 {
+	BORDER-RIGHT: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-nodataBtm {
+	BORDER-RIGHT: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-nodataBtm2 {
+	BORDER-RIGHT: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND-COLOR: #f0f5f7
+}
+.ms-cal-muworkitem {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-muworkitemRTLL {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-muworkitemR {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-muworkitemL {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-workitem {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-todayitem {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-workitem2 {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-workitem2B {
+	BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-workitemRTL2B {
+	BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-workitemL2 {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-workitemRTLL2 {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-workitemL2B {
+	BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-workitemRTLL2B {
+	BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-noworkitem {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-noworkitemL {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-noworkitemRTL {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-noworkitemB {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+.ms-cal-noworkitemLB {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+.ms-cal-noworkitem2B {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+.ms-cal-noworkitemL2B {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+.ms-cal-noworkitemRTL2B {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+.ms-cal-monthitem {
+	COLOR: #000000
+}
+.ms-cal-monthitem B {
+	COLOR: #8c8c8c
+}
+.ms-cal-monthMultiDay {
+	COLOR: #ffffff; BACKGROUND-COLOR: #314044
+}
+.ms-cal-monthMultiDay A {
+	COLOR: #ffffff; BACKGROUND-COLOR: #314044
+}
+.ms-cal-monthMultiDay A:link {
+	COLOR: #ffffff; BACKGROUND-COLOR: #314044
+}
+.ms-cal-monthMultiDay A:active {
+	COLOR: #ffffff; BACKGROUND-COLOR: #314044
+}
+.ms-cal-monthMultiDay A:visited {
+	COLOR: #ffffff; BACKGROUND-COLOR: #314044
+}
+.ms-cal-monthMultiDay A:hover {
+	COLOR: #5d7a82; BACKGROUND-COLOR: #314044
+}
+.ms-cal-more {
+	COLOR: #000000
+}
+.ms-cal-more A {
+	COLOR: #000000
+}
+.ms-cal-more A:link {
+	COLOR: #000000
+}
+.ms-cal-more A:active {
+	COLOR: #000000
+}
+.ms-cal-more A:visited {
+	COLOR: #000000
+}
+.ms-cal-more A:hover {
+	COLOR: #4c4c4c
+}
+.ms-cal-defaultbgcolor {
+	BORDER-TOP: #99bfc9 1px solid; BORDER-RIGHT: #99bfc9 1px solid; BORDER-BOTTOM: #99bfc9 1px solid; BORDER-LEFT: #99bfc9 1px solid; BACKGROUND-COLOR: #e6eaf1
+}
+.ms-cal-defaultbgcolorsel {
+	BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; COLOR: #8c8c8c; BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #f4f4f4
+}
+.ms-cal-monthAllDay {
+	BORDER-TOP: #99bfc9 1px solid; BORDER-RIGHT: #99bfc9 1px solid; BORDER-BOTTOM: #99bfc9 1px solid; BORDER-LEFT: #99bfc9 1px solid; BACKGROUND-COLOR: #e6eaf1
+}
+.ms-cal-defaultbgcolor A {
+	COLOR: #2d5199
+}
+.ms-cal-defaultbgcolor A:hover {
+	COLOR: #000000
+}
+.ms-cal-defaultbgcolorsel A:hover {
+	COLOR: #000000
+}
+.ms-cal-monthAllDaysel {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #f4f4f4
+}
+.ms-cal-time {
+	BORDER-RIGHT: #bcc3d7 1px solid; BACKGROUND-COLOR: transparent
+}
+.ms-cal-timeRTL {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-emptytime {
+	BORDER-TOP: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-emptytimeRTL {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-emptycell {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #d8d8d8
+}
+.ms-cal-emptycellRTL {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #d8d8d8
+}
+.ms-cal-emptycellB {
+	BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #d8d8d8
+}
+.ms-cal-emptycellRTLB {
+	BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #d8d8d8
+}
+.ms-cal-alldayevent {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-alldayeventRTL {
+	BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-noworkhour {
+	BORDER-LEFT: medium none; BACKGROUND-COLOR: #00ff00
+}
+.ms-cal-workhour {
+	BORDER-TOP: #d0d6e5 1px solid; COLOR: ; BACKGROUND-COLOR: transparent
+}
+.ms-cal-noworkhourRTL {
+	BORDER-RIGHT: medium none; BACKGROUND-COLOR: #00ff00
+}
+.ms-cal-workhourRTL {
+	BORDER-RIGHT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-noworkhourF {
+	BORDER-TOP: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #00ff00
+}
+.ms-cal-workhourF {
+	BACKGROUND-COLOR: transparent
+}
+.ms-cal-noworkhourRTLF {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-COLOR: #00ff00
+}
+.ms-cal-workhourRTLF {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-upper-border {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.ms-cal-upper-borderRTL {
+	BORDER-TOP: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-enoworkdayF {
+	BORDER-TOP: medium none
+}
+.ms-cal-enoworkdayRTLF {
+	BORDER-TOP: medium none
+}
+.ms-cal-eworkdayF {
+	BORDER-TOP: medium none
+}
+.ms-cal-eworkdayRTLF {
+	BORDER-TOP: medium none
+}
+.ms-cal-workhourF {
+	BORDER-TOP: medium none
+}
+.ms-cal-enoworkhourF {
+	BORDER-TOP: medium none
+}
+.ms-cal-eworkhourF .ms-cal-dayhour {
+	BORDER-TOP: #d0d6e5 1px solid
+}
+.ms-cal-eworkhourF .ms-cal-dayhourF {
+	BORDER-TOP: #d0d6e5 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhourF {
+	BORDER-TOP: #d0d6e5 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhour {
+	BORDER-TOP: #d0d6e5 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhour {
+	BORDER-TOP: #d0d6e5 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhour {
+	BORDER-TOP: #d0d6e5 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhourF {
+	BORDER-TOP: #d0d6e5 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhourF {
+	BORDER-TOP: #d0d6e5 1px solid
+}
+.ms-cal-eworkhourF .ms-cal-dayhalfhourF {
+	BORDER-TOP: medium none
+}
+.ms-cal-eworkhour .ms-cal-dayhalfhourF {
+	BORDER-TOP: medium none
+}
+.ms-cal-eworkhour .ms-cal-dayhalfhour {
+	BORDER-TOP: medium none
+}
+.ms-cal-eworkday .ms-cal-dayhalfhour {
+	BORDER-TOP: medium none
+}
+.ms-cal-enoworkday .ms-cal-dayhalfhour {
+	BORDER-TOP: medium none
+}
+.ms-cal-eworkday .ms-cal-dayhalfhourF {
+	BORDER-TOP: medium none
+}
+.ms-cal-enoworkday .ms-cal-dayhalfhourF {
+	BORDER-TOP: medium none
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhourF {
+	BORDER-TOP: medium none
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhour {
+	BORDER-TOP: medium none
+}
+.ms-cal-enoworkhour .ms-cal-dayhourF {
+	BORDER-TOP: medium none
+}
+.ms-cal-enoworkhour .ms-cal-dayhour {
+	BORDER-TOP: medium none
+}
+.ms-cal-eworkhourF .ms-cal-dayhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-eworkday .ms-cal-dayhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-enoworkday .ms-cal-dayhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-enoworkdayF .ms-cal-dayhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-enoworkdayRTLF .ms-cal-dayhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-eworkday .ms-cal-dayhalfhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-enoworkday .ms-cal-dayhalfhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-enoworkdayF .ms-cal-dayhalfhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-enoworkdayRTLF .ms-cal-dayhalfhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-eworkdayF .ms-cal-dayhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-enoworkhourF .ms-cal-dayhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-enoworkhour .ms-cal-dayhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-eworkhour .ms-cal-dayhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-eworkhour .ms-cal-dayhalfhourF {
+	BORDER-LEFT: medium none
+}
+.ms-cal-eworkday {
+	BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-eworkdayRTL {
+	BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-weekedge {
+	BACKGROUND-COLOR: transparent
+}
+.ms-cal-wtopdayselected {
+	FONT-SIZE: 8pt; CURSOR: hand; BORDER-TOP: 1px; FONT-FAMILY: Verdana; BORDER-RIGHT: 1px; WIDTH: 14.5%; BACKGROUND-IMAGE: none; BORDER-BOTTOM: 1px; FONT-WEIGHT: normal; COLOR: #ffffff; TEXT-ALIGN: left; BORDER-LEFT: 1px; BACKGROUND-COLOR: #ff9932; verticalAlign: top
+}
+.ms-cal-wtopdayselectedRTL {
+	FONT-SIZE: 8pt; CURSOR: hand; BORDER-TOP: 1px; FONT-FAMILY: Verdana; BORDER-RIGHT: 1px; WIDTH: 14.5%; BORDER-BOTTOM: 3px; FONT-WEIGHT: normal; COLOR: #ffffff; PADDING-BOTTOM: 1px; TEXT-ALIGN: right; PADDING-TOP: 1px; PADDING-LEFT: 1px; BORDER-LEFT: 1px; PADDING-RIGHT: 1px; BACKGROUND-COLOR: #ff9932; verticalAlign: top
+}
+.ms-cal-wtopdayselectedL {
+	FONT-SIZE: 8pt; CURSOR: hand; BORDER-TOP: 1px; FONT-FAMILY: Verdana; BORDER-RIGHT: 1px; WIDTH: 14.5%; BORDER-BOTTOM: 3px; FONT-WEIGHT: normal; COLOR: #ffffff; PADDING-BOTTOM: 1px; TEXT-ALIGN: left; PADDING-TOP: 1px; PADDING-LEFT: 1px; BORDER-LEFT: 3px; PADDING-RIGHT: 1px; BACKGROUND-COLOR: #ff9932; verticalAlign: top
+}
+.ms-cal-wtopdayselectedRTLL {
+	FONT-SIZE: 8pt; CURSOR: hand; BORDER-TOP: 1px; FONT-FAMILY: Verdana; BORDER-RIGHT: 3px; WIDTH: 14.5%; BORDER-BOTTOM: 3px; FONT-WEIGHT: normal; COLOR: #ffffff; PADDING-BOTTOM: 1px; TEXT-ALIGN: right; PADDING-TOP: 1px; PADDING-LEFT: 1px; BORDER-LEFT: 1px; PADDING-RIGHT: 1px; BACKGROUND-COLOR: #ff9932; verticalAlign: top
+}
+.ms-cal-wemptycell {
+	BORDER-RIGHT: #bcc3d7 1px solid; BORDER-LEFT: #bcc3d7 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-wemptycellL {
+	BORDER-RIGHT: #bcc3d7 1px solid; BORDER-LEFT: #bcc3d7 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-walldayevent {
+	BORDER-RIGHT: #bcc3d7 1px solid; BORDER-LEFT: #bcc3d7 1px solid
+}
+.ms-cal-walldayeventL {
+	BORDER-RIGHT: #bcc3d7 1px solid; BORDER-LEFT: #bcc3d7 1px solid
+}
+.ms-cal-walldayeventRTL {
+	BORDER-RIGHT: #bcc3d7 1px solid; BORDER-LEFT: #bcc3d7 1px solid
+}
+.ms-cal-walldayevent TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma
+}
+.ms-cal-walldayeventRTL TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma
+}
+.ms-cal-walldayeventL TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma
+}
+.ms-cal-walldayeventR TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma
+}
+.ms-cal-walldayeventRTLL TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma
+}
+.contR {
+	
+}
+.contB {
+	
+}
+.contL {
+	
+}
+.ms-cal-weekitem {
+	FONT-SIZE: 7pt; TEXT-DECORATION: none; HEIGHT: 100%; FONT-FAMILY: Verdana; TEXT-OVERFLOW: ellipsis; COLOR: #000000; TEXT-ALIGN: center
+}
+.ms-cal-weekitem A {
+	FONT-SIZE: 7pt; TEXT-DECORATION: none; HEIGHT: 100%; FONT-FAMILY: Verdana; TEXT-OVERFLOW: ellipsis; COLOR: #000000; TEXT-ALIGN: center
+}
+.ms-cal-weekitem A:link {
+	FONT-SIZE: 7pt; TEXT-DECORATION: none; HEIGHT: 100%; FONT-FAMILY: Verdana; TEXT-OVERFLOW: ellipsis; COLOR: #000000; TEXT-ALIGN: center
+}
+.ms-cal-weekitem A:active {
+	FONT-SIZE: 7pt; TEXT-DECORATION: none; HEIGHT: 100%; FONT-FAMILY: Verdana; TEXT-OVERFLOW: ellipsis; COLOR: #000000; TEXT-ALIGN: center
+}
+.ms-cal-weekitem A:visited {
+	FONT-SIZE: 7pt; TEXT-DECORATION: none; HEIGHT: 100%; FONT-FAMILY: Verdana; TEXT-OVERFLOW: ellipsis; COLOR: #000000; TEXT-ALIGN: center
+}
+.ms-cal-weekitem A:hover {
+	FONT-SIZE: 7pt; TEXT-DECORATION: none; HEIGHT: 100%; FONT-FAMILY: Verdana; TEXT-OVERFLOW: ellipsis; COLOR: #ffffff; TEXT-ALIGN: center
+}
+.ms-cal-tdayitem {
+	BORDER-TOP: #99bfc9 1px solid; BORDER-RIGHT: #99bfc9 1px solid; BACKGROUND-REPEAT: repeat-x; BORDER-BOTTOM: #99bfc9 1px solid; BORDER-LEFT: #99bfc9 1px solid
+}
+.ms-cal-dayitem A {
+	COLOR: #000000
+}
+.ms-cal-dayitem A:hover {
+	COLOR: #ffffff
+}
+.ms-cal-dayitem2 {
+	BORDER-RIGHT: #cccccc 2px solid; BACKGROUND-COLOR: #cce2e8
+}
+.ms-cal-dayitem2rtl {
+	BORDER-RIGHT: #cccccc 2px solid; BACKGROUND-COLOR: #cce2e8
+}
+.ms-cal-gempty {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none
+}
+.ms-cal-navheader {
+	COLOR: #000000
+}
+DIV.ms-cal-navheader A IMG {
+	BORDER-TOP: #badbe8 1px solid; BORDER-RIGHT: #badbe8 1px solid; VERTICAL-ALIGN: middle; BACKGROUND-IMAGE: url(listheadergrad_simple.gif); BACKGROUND-REPEAT: repeat-x; BORDER-BOTTOM: #badbe8 1px solid; BACKGROUND-POSITION: center center; BORDER-LEFT: #badbe8 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.ms-BlogNavigator DIV.ms-navheader {
+	BORDER-TOP: #fff 1px solid; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND-COLOR: #eee
+}
+.ms-BlogNavigator DIV.ms-WPBody {
+	BORDER-TOP: 0px
+}
+.ms-cal-workitem2B {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+.ms-cal-workitemRTL2B {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+.ms-cal-todayitem2B {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+.ms-cal-todayitemRTL2B {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid
+}
+.ms-cal-nodataLeftBtm {
+	BORDER-BOTTOM: #ffffff 1px solid
+}
+.ms-cal-nodataLeftBtmRTL {
+	BORDER-BOTTOM: #ffffff 1px solid
+}
+.ms-cal-nodataLeftBtm2 {
+	BORDER-BOTTOM: #ffffff 1px solid
+}
+.ms-cal-nodataLeftBtmRTL2 {
+	BORDER-BOTTOM: #ffffff 1px solid
+}
+.ms-cal-nodataBtm {
+	BORDER-BOTTOM: #ffffff 1px solid
+}
+.ms-cal-nodataBtm2 {
+	BORDER-BOTTOM: #ffffff 1px solid
+}
+.ms-cal-workhour {
+	BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-workhourhalfhour {
+	BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-workhourover {
+	BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-workhourhalfhourover {
+	BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-eworkhourRTLF .ms-cal-dayhalfhourRTLF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkhourRTL .ms-cal-dayhalfhourRTLF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkhourRTL .ms-cal-dayhalfhourRTL {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkdayRTL .ms-cal-dayhalfhourRTL {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkdayRTL .ms-cal-dayhalfhourRTL {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkdayRTL .ms-cal-dayhalfhourRTLF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkdayRTL .ms-cal-dayhalfhourRTLF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTLF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhourRTLF .ms-cal-dayhalfhourRTLF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTL {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourhalfhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourhalfhourB {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourRTLhalfhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourRTLBhalfhourover {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourRTLhalfhourover {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourBhalfhourover {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourBhalfhourover {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourhalfhourover {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourRTLFhalfhourover {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourFhalfhourover {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-workhourB {
+	BORDER-TOP: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-workhourBhalfhour {
+	BORDER-TOP: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-workhourBover {
+	BORDER-TOP: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-workhourBhalfhourover {
+	BORDER-TOP: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.ms-cal-eworkhourF .ms-cal-dayhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-enoworkdayF .ms-cal-dayhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhalfhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhalfhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-enoworkdayF .ms-cal-dayhalfhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-eworkdayF .ms-cal-dayhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhalfhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-enoworkhourF .ms-cal-dayhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-enoworkhour .ms-cal-dayhourF {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.ms-cal-eworkhourF .ms-cal-dayhalfhourF {
+	BORDER-TOP: #eeeeee 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhalfhourF {
+	BORDER-TOP: #eeeeee 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhalfhour {
+	BORDER-TOP: #eeeeee 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhalfhour {
+	BORDER-TOP: #eeeeee 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhalfhour {
+	BORDER-TOP: #eeeeee 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhalfhourF {
+	BORDER-TOP: #eeeeee 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhalfhourF {
+	BORDER-TOP: #eeeeee 1px solid
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhour {
+	BORDER-TOP: #eeeeee 1px solid
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhourF {
+	BORDER-TOP: #eeeeee 1px solid
+}
+.ms-cal-enoworkhourF .ms-cal-dayhour {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTLF {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTLF .ms-cal-dayhalfhourRTLF {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTL {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTL .ms-cal-dayhourRTLF {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTL .ms-cal-dayhourRTL {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTLF {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTL {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhourF {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhour {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhour .ms-cal-dayhourF {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhour .ms-cal-dayhour .ms-cal-enoworkhourF .ms-cal-dayhourF {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhour {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTL {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTLL {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourL {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourF {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourRTLF {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-eworkhourF .ms-cal-dayhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkhourF .ms-cal-dayhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhourF .ms-cal-dayhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhourF .ms-cal-dayhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhour .ms-cal-dayhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhour .ms-cal-dayhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhourB .ms-cal-dayhalfhour {
+	BORDER-TOP: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourB .ms-cal-dayhour {
+	BORDER-TOP: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourB .ms-cal-dayhalfhourF {
+	BORDER-TOP: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-enoworkhourB .ms-cal-dayhourF {
+	BORDER-TOP: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #eeeeee
+}
+.ms-cal-eworkhourF .ms-cal-dayhalfhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhalfhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkhour .ms-cal-dayhalfhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhalfhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhalfhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-eworkday .ms-cal-dayhalfhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkday .ms-cal-dayhalfhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhour {
+	BORDER-TOP: #cccccc 1px solid
+}
+.ms-cal-enoworkhour .ms-cal-dayhalfhourF {
+	BORDER-TOP: #cccccc 1px solid
+}
+TD.ms-titleareaframe {
+	BACKGROUND: url(pageTitleBKGD_simple.gif) #ffffff repeat-x
+}
+DIV.ms-titleareaframe {
+	BACKGROUND: url(pageTitleBKGD_simple.gif) #ffffff repeat-x
+}
+.ms-pagetitleareaframe {
+	BACKGROUND: url(pageTitleBKGD_simple.gif) #ffffff repeat-x
+}
+.ms-mwspagetitleareaframe {
+	BACKGROUND: url(pageTitleBKGD_simple.gif) #ffffff repeat-x
+}
+.ms-consoletitleareaframe {
+	BACKGROUND: url(pageTitleBKGD_simple.gif) #ffffff repeat-x
+}
+.ms-consoletitleareaframebottom {
+	BACKGROUND: #ffffff
+}
+TABLE.ms-applyfiltersinactive {
+	BACKGROUND-IMAGE: url(ApplyFiltersInActive.gif)
+}
+TABLE.ms-applyfiltersactive {
+	BACKGROUND-IMAGE: url(ApplyFiltersActive.gif)
+}
+TABLE.ms-applyfiltershoverover {
+	BACKGROUND-IMAGE: url(ApplyFiltersHoverOver.gif)
+}
+.leftnavPic {
+	BACKGROUND-IMAGE: url(portraitbackground.gif)
+}
+.ms-main .ms-ptabcn {
+	BORDER-TOP-COLOR: #5e3593; BACKGROUND: url(PortalTabSelected.gif); BORDER-LEFT-COLOR: #5e3593; BORDER-BOTTOM-COLOR: #5e3593; BORDER-RIGHT-COLOR: #5e3593
+}
+.ms-main .ms-sctabcn {
+	BORDER-TOP-COLOR: #5e3593; BACKGROUND: url(PortalTabSelected.gif); BORDER-LEFT-COLOR: #5e3593; BORDER-BOTTOM-COLOR: #5e3593; BORDER-RIGHT-COLOR: #5e3593
+}
+.ms-main .ms-sctabcn {
+	BACKGROUND-COLOR: #ffffff
+}
+.ms-main .ms-ptabcnhover {
+	BORDER-TOP-COLOR: #5e3593; BACKGROUND: url(PortalTabHover.gif); BORDER-LEFT-COLOR: #5e3593; BORDER-BOTTOM-COLOR: #5e3593; BORDER-RIGHT-COLOR: #5e3593
+}
+.ms-main .ms-sctabcnhover {
+	BORDER-TOP-COLOR: #5e3593; BACKGROUND: url(PortalTabHover.gif); BORDER-LEFT-COLOR: #5e3593; BORDER-BOTTOM-COLOR: #5e3593; BORDER-RIGHT-COLOR: #5e3593
+}
+.ms-main .ms-ptabcf {
+	BORDER-RIGHT: 0px; BORDER-TOP-COLOR: #5e3593; BORDER-LEFT-COLOR: #5e3593; BORDER-BOTTOM-COLOR: #5e3593
+}
+.ms-main .ms-sctabcf {
+	BORDER-RIGHT: 0px; BORDER-TOP-COLOR: #5e3593; BORDER-LEFT-COLOR: #5e3593; BORDER-BOTTOM-COLOR: #5e3593
+}
+.ms-main .ms-sctabcf {
+	BACKGROUND: #ffffff
+}
+.ms-main .ms-ptabcfhover {
+	BORDER-TOP-COLOR: #5e3593; BACKGROUND: url(PortalTabHover.gif); BORDER-LEFT-COLOR: #5e3593; BORDER-BOTTOM-COLOR: #5e3593; BORDER-RIGHT-COLOR: #5e3593
+}
+.ms-main .ms-sctabcfhover {
+	BORDER-TOP-COLOR: #5e3593; BACKGROUND: url(PortalTabHover.gif); BORDER-LEFT-COLOR: #5e3593; BORDER-BOTTOM-COLOR: #5e3593; BORDER-RIGHT-COLOR: #5e3593
+}
+.ms-main .ms-ptabrx {
+	BORDER-TOP: 0px; BORDER-RIGHT: #5e3593 1px solid; BORDER-BOTTOM: #5e3593 1px solid; BORDER-LEFT: #5e3593 1px solid
+}
+.ms-main .ms-sctabrx {
+	BORDER-TOP: 0px; BORDER-RIGHT: #5e3593 1px solid; BORDER-BOTTOM: #5e3593 1px solid; BORDER-LEFT: #5e3593 1px solid
+}
+.ms-main .ms-sctabrx {
+	BACKGROUND: #ffffff
+}

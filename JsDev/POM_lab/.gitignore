@@ -1,0 +1,10 @@
+*.log
+node_modules
+/bin/
+.classpath
+.project
+*node_modules
+node_modules*
+.settings
+results.json
+*.previous

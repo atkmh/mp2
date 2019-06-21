@@ -1,0 +1,63 @@
+Sr Java Developer Barclays to QA Team Lead Deloitte ???
+
+
+How much test work prior to Deloitte( very limited not much to expand )
+
+
+What did you test on the deloitte project ( very open q )
+
+
+
+some difficulties what were experienced at Deloitte
+
+
+
+How do you go about the beginning of test a product (very open q )
+talking and not saying much.
+Set a plan
+Kickoff 
+
+
+How do you begin your approach to new product testing
+* When does Automation come in
+	A|B How come you started TA so early ?
+	A|B Why did you wait so long to start ?
+
+Ans:
+got to learn the feature firs
+
+
+
+Web App test experience ( probably lots )
+
+Get a quote page
+
+
+
+(Locators ????  Plan options page. how to get the second GetDetails button )
+
+
+
+What lead you to POM for TA
+Describe your POM framework  
+
+
+
+
+
+(Locators ????  Plan options page. how to get the second GetDetails button )
+
+
+Programming Exercies
+
+
+
+RESTful WebServices RestAssured
+Jenkins CI/CD  Pipeline creation
+	* Pipeline plugins to jenkins
+
+	
+	
+	
+	
+	

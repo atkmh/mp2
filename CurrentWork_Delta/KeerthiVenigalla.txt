@@ -1,0 +1,78 @@
+GE Digital
+
+
+Java, JavaScript 
+
+GE ProUI BDD Framework
+	* Explain what you can.
+	* What is special about this framework ?
+
+Release scheduling:  Cycle time between releases.
+	
+Propel ?
+Jenkins ?
+Source Code Version Control
+
+Automaiton SDLC:  Code Maintenance ?  Refactoring
+
+
+
+SauceLabs
+
+Agile ??  At GEDigital
+
+Agile in the past.
+
+
+
+OutBox AXS :
+test case documentation.
+
+Release scheduling:  Cycle time between releases.
+How did you visualize RabbitMQ payloads?
+
+
+
+=-=-=-=-=-=-
+good talking ability.  not struggling to say anything.
+
+
+
+UI testing example:
+What does she want to test?
+
+Exploratory clicking for navigation experience.
+nvalid daa
+Positive data: all valid data.
+Requied fields ??   trying to figure out what is requited.
+Date fields. boundary checking
+
+Locator : get details in three places
+
+Good XPath Answers
+
+Good Ancestor Answers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t

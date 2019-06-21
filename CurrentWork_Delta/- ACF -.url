@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://itportal/sites/art/apps/ACF%20Page%20Viewers/Access%20Control%20Form.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://itportal/sites/art/apps/ACF%20Page%20Viewers/Access%20Control%20Form.aspx
+IDList=
+IconFile=http://itportal/_layouts/images/favicon.ico
+IconIndex=1

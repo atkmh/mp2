@@ -1,0 +1,60 @@
+9/10/18
+G: are there any no cost VPN Services
+https://www.google.com/search?q=are+there+any+no+cost+VPN+Services&rlz=1C1CHBF_enUS725US725&oq=are+there+any+no+cost+VPN+Services&aqs=chrome..69i57.15112j1j7&sourceid=chrome&ie=UTF-8
+https://www.techradar.com/vpn/the-best-free-vpn-services-of-2018
+https://www.pcmag.com/roundup/285788/the-best-free-vpn-services
+https://www.lifewire.com/best-vpn-service-providers-4061659
+https://www.geckoandfly.com/5710/free-vpn-for-windows-mac-os-x-linux-iphone-ubuntu/
+https://www.geckoandfly.com/5717/best-vpn-free-uk-us-server-service/
+
+Mark O'Sullivan Adobe
+https://www.linkedin.com/in/jamesmarkosullivan/
+
+Single Responsibility Principle
+https://en.wikipedia.org/wiki/Single_responsibility_principle
+is a computer programming principle that states that every module or 
+class should have responsibility over a single part of the functionality provided by the software
+http://xunitpatterns.com/Humble%20Object.html
+http://xunitpatterns.com/
+
+
+
+9/8/17
+Linux platform type stuff = interesting
+https://i3wm.org/
+http://surf.suckless.org/
+Chrome apps
+https://www.themuse.com/advice/13-chrome-apps-you-wont-believe-you-survived-without
+https://workona.com/
+https://www.wired.com/story/best-chrome-extensions/
+
+
+
+8/20/18
+https://superuser.com/questions/866962/why-does-virtualbox-only-have-32-bit-option-no-64-bit-option-on-windows-7
+http://www.fixedbyvonnie.com/2014/11/virtualbox-showing-32-bit-guest-versions-64-bit-host-os/#.W2ho7tVKj4Z
+
+
+
+
+
+
+
+
+
+
+7/6/18
+G: music authoring software that works with windows 7
+https://www.google.com/search?q=music+authoring+software+that+works+with+windows+7&rlz=1C1CHBF_enUS725US725&oq=music+authoring+sofware+&aqs=chrome.4.69i57j0l5.9991j0j7&sourceid=chrome&ie=UTF-8
+https://musescore.com/user/login?destination=upload
+https://www.techradar.com/news/the-best-free-desktop-apps-for-music-making
+https://marketplace.tracktion.com/shop/free-daw
+https://www.soundonsound.com/reviews/multi-touch-music-software-windows
+
+g:git can I delte my history if I don't need it
+https://www.google.com/search?q=git+can+I+delte+my+history+if+I+don%27t+need+it&rlz=1C1CHBF_enUS725US725&oq=git+can+I+delte+my+history+if+I+don%27t+need+it&aqs=chrome..69i57j69i64.16482j1j7&sourceid=chrome&ie=UTF-8
+https://gist.github.com/stephenhardy/5470814#file-git-clearhistory-L4
+https://help.github.com/articles/removing-sensitive-data-from-a-repository/
+https://stackoverflow.com/questions/41953300/how-to-delete-the-old-git-history
+https://itextpdf.com/blog/how-completely-remove-file-git-repository
+

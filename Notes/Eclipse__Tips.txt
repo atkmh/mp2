@@ -1,0 +1,2 @@
+Ctrl +   _   for split horizontally, and
+Ctrl +   {   for split vertically.

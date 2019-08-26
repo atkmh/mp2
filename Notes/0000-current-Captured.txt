@@ -1,3 +1,5 @@
+0000-current-Captured
+
 3/19/19 Happy birthday Mom.  called her this morning need to give her peter komors cell number.
 
 phrase for CV  Highly interested in the artform of elegant technical solutions.
@@ -15,4 +17,6 @@ Now I need to mod dashboard and kick out the gifs
 05 made pie chart 75% also tried to make the charts.js code local did not work  back to norm
 
 need to test with the special build file as well to make sure it puts text in...
+
+end.
 

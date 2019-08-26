@@ -1,5 +1,9 @@
-text
+basename is a shell available program when used in conjunction with path will give you the end of the stirng , ie. the directory you are in
 
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/basename.html
+basename - return non-directory portion of a pathname
+#basename $PWD will give you the one work of your curr work dir
+see https://unix.stackexchange.com/questions/383300/using-the-basename-of-current-path-to-define-a-new-file
 
 
 

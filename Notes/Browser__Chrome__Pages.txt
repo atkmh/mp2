@@ -8,6 +8,11 @@ https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally
 -----------------------------------------------------------------------------------------------------------------
 https://www.google.com/search?q=how+to+install+and+run+python+on+windows+10&rlz=1C1GCEB_en___US816&oq=how+to+install+and+run+python+on+windows+10&aqs=chrome..69i57.16140j0j7&sourceid=chrome&ie=UTF-8&safe=active
 
+https://www.howtogeek.com/197947/how-to-install-python-on-windows/
+https://docs.python.org/3/using/windows.html
+https://phoenixnap.com/kb/how-to-install-python-3-windows
+https://www.maketecheasier.com/set-up-python-windows10/
+
 
 -----------------------------------------------------------------------------------------------------------------
 https://www.callicoder.com/java-arraylist/
@@ -20,7 +25,10 @@ https://en.wikipedia.org/wiki/Apache_Maven
 
 -----------------------------------------------------------------------------------------------------------------
 http://www.martiansoftware.com/jsap/
+https://sourceforge.net/projects/jsap/
+http://www.martiansoftware.com/jsap/doc/
 
+http://www.martiansoftware.com/jsap/doc/ch02.html
 
 -----------------------------------------------------------------------------------------------------------------
 https://introcs.cs.princeton.edu/java/home/
@@ -34,8 +42,14 @@ https://www.google.com/maps/@54.1590796,-4.5144546,3a,75y,258.93h,99.88t/data=!3
 
 
 -----------------------------------------------------------------------------------------------------------------
+G: xcopy command example to copy entire drive
+https://www.google.com/search?q=xcopy+command+example+to+copy+entire+drive&rlz=1C1GCEB_en___US816&oq=xcopy+command+example+to+copy+entire+drive+&aqs=chrome..69i57j33.15696j0j7&sourceid=chrome&ie=UTF-8&safe=active
+
+The following does not relate to the query
+Java Project Tutorial - Make Login and Register Form Step by Step Using NetBeans And MySQL Database
 https://www.youtube.com/watch?v=3vauM7axnRs
 
+Selenium 4 Beginners With Rex Jones II
 https://www.youtube.com/channel/UCBU_TzaPsDXXeQ3ItUYKaJg
 
 
@@ -99,6 +113,35 @@ https://rc-lx1632.ut.dentegra.lab:8443/view/CX_TestAuto/
 https://rc-lx1632.ut.dentegra.lab:8443/job/protractor-jasmine-testautomation/
 https://rc-lx1632.ut.dentegra.lab:8443/job/protractor-jasmine-testautomation/configure
 https://cx-cloudbees.deltads.ent/asynchPeople/
+
+-----------------------------------------------------------------------------------------------------------------
+8/12/19
+https://chromedriver.chromium.org/downloads
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
 
 -----------------------------------------------------------------------------------------------------------------
 

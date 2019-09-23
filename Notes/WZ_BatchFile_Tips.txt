@@ -1,0 +1,17 @@
+8/23/17  New file
+Tips and tricks in Batch files
+
+https://stackoverflow.com/questions/9229836/sleep-wait-command-in-batch
+
+
+ping localhost -n (your time) >nul
+
+timeout 5   to delay
+timeout 5 >nul    to delay without asking you to press any key to cancel
+
+
+Thist work really well in a command line batch file.  Not well at all in something that is called and runs in the backround, As explained in
+https://comm.support.ca.com/kb/the-timeout-command-in-batch-script-job-results-in-error-input-redirection-is-not-supported-exiting-the-process-immediately/kb000029524
+ timeout /t 30 /nobreak > NUL 
+ 
+ a better solution in a background process is    ping 127.0.0.1 -n1 -w 10000 >NUL 

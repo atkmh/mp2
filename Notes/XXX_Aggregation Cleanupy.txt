@@ -16,15 +16,15 @@ Acceptance_Matrix
 JustText
 READ ME 
 JiraTicket_EntrySpace
-
-
-
-
-
+Work Hours
+AA_leading_DD_OffShore_HPGandhavalla
 
 
 
 Body of file with file name first
+--------------------------------------
+--------------------------------------
+
 XXX_A_Regression_planning
 
 7-20-2016
@@ -492,9 +492,6 @@ asdf         |       x    |
 ======================================
 
 
-
-
-
 3/21/16
 The CSRF service issues one token per session, so we would like the webapp to only request a token once and then re use it if it is still within the same session. This seems to be working in the local environment but not in dev
 
@@ -745,28 +742,7 @@ Old Sprint naming format
 
 Sprint  
 Sprint  
-Sprint 15 
-Sprint 14 
-
-Sprint 13 
-Sprint 12 
-
-Sprint 11 
-
-Sprint 10
-
-Sprint 9:q
-
-Sprint 8
-
-Sprint 7
-
-Sprint 6
-
-Sprint 5
-
-
-Sprint 4 
+Sprint 15 Sprint 14 Sprint 13 Sprint 12 Sprint 11 Sprint 10 Sprint 9 :qSprint 8 Sprint 7 Sprint 6 Sprint 5 Sprint 4 
 
 Sprint 3 Stories are 97, 98, 161, 166
 352
@@ -1038,7 +1014,6 @@ I now know this is not as easliy feasible as I had thought.
 FC is a Web Java APP , not a web page.
 
 
-
 =======================
 FPS- No Exception
 Account with no exceptions, future dated [NOTE - covers scenario for post cut-off)
@@ -1117,7 +1092,6 @@ Payment rejected: PASS
 Payment accepted: FAIL
 
 
-
 =======================
 FPS- Overrides
 Account overdrawn with no facility
@@ -1131,7 +1105,6 @@ If we can gain access to the pending auth queue
 may be we can approve or reject.
 Approve would simply move on with no observable interaction
 Reject would never debit the account, but no other observation to make
-
 
 
 
@@ -1158,8 +1131,6 @@ Special condition between today and tomorrow
 This morning account is open.  Noon account is closed
 Afternoon a payment is made against this account.
 It will go to FC  ===== And Susan has to check what happens.  We think it will be Pending Auth then reject
-
-
 
 
 To Test: 
@@ -1228,7 +1199,6 @@ Do we have access to the value sent to the phone, if so, thatÕs half the equati
 Do we / can we simulate sending a text from a specific Ph# back to the host.
 
 
-
 =======================
 Authentication Testing -
 User attempts to enter code incorrectly 3 times and is frozen
@@ -1247,7 +1217,6 @@ CTV Fail:  3rd time, look at the audit report:  USER STATUS FROZEN, but  the acc
 	•	
 
 
-
 =======================
 Authentication Testing -
 User attempts to enter code incorrectly 6 times and is Logged out
@@ -1263,7 +1232,6 @@ Susan: Can we also check the user status user Admin Econnect.
 JustText
 Temp Work Space:  Not saved Just Scratch
 
-
 991
 ChOnWin-33333333pn did not appear in the list immediately
 I know why.  I didnÕt put in a NN Doh !
@@ -1274,14 +1242,12 @@ IE 9 is non functional.  Will not validate
 
 IE 10
 
-
 IE 11
 
 941
 CH Mac
 
 Having ALL the Bright Ideas has never been what I strive for, but recognizing ALL for them exposed or not gets my attention.
-
 
 I would like to discuss with your management staff my drive and qualifications to lead / manage your Software Quality Engineering team.
 
@@ -1295,16 +1261,10 @@ I would like to discuss with your management staff my drive and qualifications t
 * Multiple team building opportunities, Off shore & Local staff.
 * 
 
-
 If finding an obscure bug doesnÕt make you all giddy inside, then this probably isnÕt the right position for you. We want someone who 
 
 
-
-
 relishes in the hunt and feels truly rewarded once theyÕve uncovered something Ð doubly so if itÕs reaaallly nasty. . ..
-
-
-
 
 2+ years experience writing automated test cases for web apps with sophisticated UI and 100s of features
 Experience setting up test environments from scratch using Selenium or similar
@@ -1438,9 +1398,71 @@ Environment:
 https://qa4.svbconnect.com/auth/
 Mac: Chrome 38.0.2125.104  , Firefox 43.0.4   , Safari 8.0.7 (10600.7.12)
 
+====================================================================================
+
+Work Hours
+1/3/17	7.5
+1/4/17	8.5
+1/5/17	8.5
+1/6/17 	7.5
+=========
+1/9/17	8.5
+1/10/17	X
+1/11/17	X
+1/12/17	X
+1/13/17	X
 
 
 ====================================================================================
+AA_leading_DD_OffShore_HPGandhavalla
+
+Organization of data is pushdown, most recent on top
+
+3/16/17 [later]
+All three engineers are moving to E2E Protractor Integration work.
+
+[Later end.]
+Follow up from email and chat...
+"Just confused about what team I'm working for"
+
+Ok, so here's how it flows.
+I work on the Customer Experience(CX): Acqusition
+Acqusition involves the actions Shopping and Buying ( hence Acqusition)
+
+Currently Acqusition is the only team that is up and running
+There is an expectation for two more teams to develop products in the 
+CX product line.
+
+The work that Deepak and Indranil are doing is relating to upcoming
+Functional areas of the Acqusition product, and for upcoming infrastructure
+in support of the two additional webApps.
+
+I have been asked to manage and guide three offshore resources.
+You are resource number one.  Murali and Manish are two and three.
+The two areas of focus are Application E2E Integration testing done with JavaScript in the protractor frame work
+And Backend Microservice integration testing
+
+You are the only one who has had opportunity to look at product code and begin to develop work
+
+We are now at a point where I need to start focusing on where work is needed, and what should be done.
+After those two concepts are met, I leave it to you to determine how to meet that need.
+
+Your intended areas of focus is to develop integration testing on micro services that support the CX Acqusition webApp.
+Address Cleanse: located in DEVPROJECTS / dd_cx_app
+Broker : located in DEVPROJECTS / dd_cx_app
+Assignment: located in DEVPROJECTS / dd_cx_app
+ 
+The address cleanse servcice seems to be in the following directory.
+DEVPROJECTS / dd_cx_app
+See the README.md file in the root of this repo to get some kind of understanding
+See the section at the bottom 'Test the Services'  understand this.  This -may- become a starting point for more.
+
+ I know you've been working on the dd-cx-microservices  
+But the services identified in dd_cx_app are the ones in production that we need to make sure are properly hardened.
+And because they are all working, there wont be any down time because engineers are developing the services.
+
+Its ok that you put your focus elsewhere.  While you were getting started I was clearing my plate to be able 
+give you some focus.
 
 
 

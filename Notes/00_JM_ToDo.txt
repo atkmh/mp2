@@ -1,0 +1,24 @@
+10/16/19 HighLevel Big Picture:  vs Simple Immediate things H-L :  I-S
+
+H-L
+Woring On Robot Class and a system or calls into robot routines that enter data in a sequence
+Have the sequence naming setup RT0, ... RT(N)  I could even make the RT nmes the name of the function
+that I am going to call  Would be great to get the typing of strings figured out so that I could pass
+strings to one function vs several with hard literals
+
+Started lookin at a Graphic User Interface, just a text space but not in Eclipse or not in a command session
+
+Successfully implemented the StaticProcedures module need to continue this model
+
+I need to finish the idea of a routine that puts matrices away after an operatoin
+
+
+
+I-S
+This is old but I need ot clarify if its done
+I need the data setting routines to make new matrixes and put away same a devMult
+
+the new matrix concept is a run time concept not a Matrix concept.
+so the work needs to be developed in StaticProcedures.
+
+Swap rows doesn't make a new matrix and put the onld away

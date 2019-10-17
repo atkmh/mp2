@@ -1,0 +1,65 @@
+Quality Process:
+*************************************
+Test Prioritization	Are tests prioritized?	Level 1
+currently ~90% of tests are P1 with 2% Med and 1% low, need to better distribute priority levels
+Notes:
+
+Documented Checkout/Smoke tests		Is there smoke tests			Level 1
+Note:  currently working on the smoke test set for team, Need framework that can be modified, 
+       Also need to add smoke test cycle to identify what tests are being executed for it.
+
+Automated regression suite		Are regression tests automated?		Level 1
+Testing Depth				At what depth is testing done		Level 1
+
+
+
+Defects
+*************************************
+Defect Standards best practices	What is the quality fo the defects created  Level 3 or Zero ?
+Note: Not creating defects, direction was to work through issues at the story level
+
+Defect Lifecycle	What is the lifecycle of the defect		 Level 3 or Zero ?
+
+
+Source Control
+*************************************
+Feature Branch Lifetime	Mean Life of a Feature Branch  Level 2
+Note:  But a level 3 would be easy with short Sprint long branches.
+With Frequent merges to Dev.  Currently there is no Dev.
+
+
+Merge to Master	How often merge to master Level 1
+Note:  recently there was only the POC branch
+This is an operation area where Habit needs to be installed and reinforced.
+
+
+
+
+
+
+
+QE Automation
+*************************************
+Code Review	Human Review
+
+Automaton backlogging	Is there backlogging for automation  Level 1
+Automation Test Coverage	What is the automation test coverage Level 1 
+Automation frequency	How often are automated tests executed and is it scheduled Level 2 but could be 3 easy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

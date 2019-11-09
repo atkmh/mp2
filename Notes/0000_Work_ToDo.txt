@@ -1,3 +1,12 @@
+10/30/19
+Low clean up large objects on desktop.
+Hi finish reviewing Jeff and Leos test strategy document for apis.
+Hi build out a schedule for meeting with all teams.
+Two types of meeting long-term in-depth spend time with them 
+Short-term check in how you doing.
+Hi  Get started on JavaScript tutorials
+  * Pick three and start them
+
 9/24/19  Tues At home.
 Next after that 
 LIst out each team and the future things we need to take care of 

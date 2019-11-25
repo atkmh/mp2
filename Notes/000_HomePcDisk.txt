@@ -557,7 +557,7 @@ C:.
 |   |   |   +---Season 04
 |   |   |   +---Season 05
 |   |   |   \---TSV
-|   |   |       \---æTorrent Set Up Guide - uTorrent Set Up Guide
+|   |   |       \---ï¿½Torrent Set Up Guide - uTorrent Set Up Guide
 |   |   +---The Big Lebowski (1998)
 |   |   +---The Brown Bunny (2003) DVDRip KVCD by Brady(DVDA Release)
 |   |   +---The Most IMPORTANT Video You'll Ever See
@@ -2305,7 +2305,7 @@ C:.
 |   |   |   |   +---Eye In The Sky
 |   |   |   |   \---I Robot
 |   |   |   +---Antonio Vivaldi
-|   |   |   |   \---As Quatro Esta‡oes
+|   |   |   |   \---As Quatro Estaï¿½oes
 |   |   |   +---Beatles
 |   |   |   |   \---Unknown album
 |   |   |   +---Berlin
@@ -38522,3 +38522,26 @@ C:.
         +---x86_wwf-system.workflow.componentmodel_31bf3856ad364e35_10.0.17763.1_none_208b67daade1a390
         +---x86_wwf-system.workflow.runtime_31bf3856ad364e35_10.0.17763.185_none_7d998b7c6d73e951
         \---x86_wwf-system.workflow.runtime_31bf3856ad364e35_10.0.17763.1_none_f9c22bfb3fd2f4a4
+
+
+
+
+Film work:
+
+
+
+
+2017
+
+
+
+2016
+
+
+
+.
+.
+.
+.
+2000
+seems hacky but Supernove may have merrit

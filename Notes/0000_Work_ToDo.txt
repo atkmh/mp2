@@ -1,3 +1,24 @@
+12/4/19
+Sravani  :  repo pers -> corp
+Swati Pipeline sauceConnect corrections to make
+Batch Files for the DeltaTestAutomation directory capture everything !
+Raghu Bala   Test data capture
+Prep for Protractor Frame work Refactoring
+
+Training for end of year
+
+SDA:  I'm still QA on this
+
+Repo: JM just created the UiDev branch.  
+Keep UI dev as closse to Dev as possible 
+
+JavaScript: Tutorials for Web App development skills
+
+Create a repo to openSource Team Effort app development 
+* Sliding window Reporting application
+
+Push to this repo
+
 10/30/19
 Low clean up large objects on desktop.
 Hi finish reviewing Jeff and Leos test strategy document for apis.

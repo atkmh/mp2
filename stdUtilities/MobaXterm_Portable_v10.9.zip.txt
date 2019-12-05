@@ -1,0 +1,5 @@
+found   MobaXterm_Portable_v10.9.zip  on my disk from a previous downloads directory contents.
+
+product can be found at https://www.mobatek.net/
+
+I've installed as a test but promoted to the root of the disk

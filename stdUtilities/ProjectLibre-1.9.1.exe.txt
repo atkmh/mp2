@@ -1,0 +1,7 @@
+I foound that https://www.ganttproject.biz/download/free wasn't up to my needs
+
+went lookinfor others.
+saw OpenProj, but it was dumped in 2007 or 8.
+
+Team restarted with this product ProjectLibre-1.9.1.exe
+found at https://sourceforge.net/projects/projectlibre/files/latest/download

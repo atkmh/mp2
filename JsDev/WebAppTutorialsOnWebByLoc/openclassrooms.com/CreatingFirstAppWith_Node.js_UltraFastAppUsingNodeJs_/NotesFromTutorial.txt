@@ -1,0 +1,13 @@
+
+
+
+12/9/19
+Notes from Web App Tutorial at 
+https://openclassrooms.com/en/courses/2504541-ultra-fast-applications-using-node-js/2504972-creating-your-first-app-with-node-js
+
+States we should read carefully and maybe rereadd.
+
+Node.js ia very low level such so that we must make our own
+web server.  See jerver.js
+
+

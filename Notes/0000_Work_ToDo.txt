@@ -1,3 +1,10 @@
+12/10/19
+I need to handle:
+all books not yet archived.
+I think I need to break up c:/Mark
+Look at sounds.  is is part of StellarAudiology
+Look at brekup Images.
+
 12/4/19
 Sravani  :  repo pers -> corp
 Swati Pipeline sauceConnect corrections to make

@@ -1,3 +1,9 @@
+2/10/2020
+Changes:  I've gone to the 64 bit version cuz I 
+was able to config both Vi and MarkDownViewer at the same time.
+don't need the older 32 bit ver any longer.
+
+
 ViSimulator for Notepad++
 Simulates/Emulates vi/vim in Notepad++
 

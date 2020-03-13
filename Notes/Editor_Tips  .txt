@@ -1,5 +1,5 @@
 Editor_Tips  
-Vim(&MacVim) : Sublime : IntelliJ : ATOM : Brackets : Eclipse :
+Vim(&MacVim) : Sublime : IntelliJ : ATOM : Brackets : Eclipse : Notepad++
 
 VIM key simulation for Notepad++
 https://web.archive.org/web/20150113032425/http://www.visimulator.com:80/public/p/visimulator.dll
@@ -24,3 +24,9 @@ http://stackoverflow.com/questions/18279772/splits-managing-in-vim
 :b <tab> "select buffer from a menu
 :b fo<Tab> "select buffer from a menu
 :b foo "show buffer named foo
+
+google: notepad++single file split window vertically
+https://superuser.com/questions/332163/can-i-get-split-screen-in-notepad-like-emacs
+Pick the file you want to view vertically.   Right click on the tab and pick "Clone to other view"
+Right click on the double row of dots that seperates each vile.  pick Rotate Right or left.
+Now you should have the same file one above the other.

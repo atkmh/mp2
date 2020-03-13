@@ -10,8 +10,8 @@ describe('Protractor Demo App', function() {
 //  var commitSearch4Plans_go = element(by.id('btn_saveBig'));
 //  var firstEnrollButton = element(by.id('applyQuotesPage'));
 
-  browser.get('http://dit3.deltadentalins.com/');
-//  browser.get('http://mot.deltadentalins.com/');
+ // browser.get('http://dit3.deltadentalins.com/');
+  browser.get('http://mot.deltadentalins.com/');
 
 // onPrepare: 
   beforeEach(function() {

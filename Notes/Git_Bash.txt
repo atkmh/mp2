@@ -1,0 +1,6 @@
+Special tip. 
+execute DOS or Win command at BASH cmd Prompt.
+
+$ cmd //C < what ever your Dos command would be>  
+$ cmd //C tasklist | sort\
+$ cmd //C "kill ChromeDriver80.bat"

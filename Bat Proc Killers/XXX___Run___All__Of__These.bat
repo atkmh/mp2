@@ -1,31 +1,29 @@
 @echo off
 
-call "PsKill ALL Eclipse.bat"
-call "PsKill RemoteDskTop_mstscExE.bat"
-call "PsKill ALL IE.bat"
-call "PsKill ALL OF Chrome.bat"
-call "PsKill ALL OF Opera.bat"
-call "PsKill ALL OF FireFox.bat"
-call "PsKill ALL OF GitKraken.bat"
-call "PsKill ALL Task Mgrs.bat "
-call "PsKill CitrixDevConnect.bat"
-call "PsKill GitBash.bat "
-call "PsKill MightyTextApp.bat "
-call "PsKill MsOutlook.bat "
-call "PsKill only Test Drivers Chrome.bat"
-call "PsKill SkypeLync.bat "
-call "PsKill TeamsApp.bat"
-call "PsKill VIPApp.bat "
-call "PsKill VLC.bat"
-call "PsKill cmdExE.bat"
-call "PsKill TeamsApp.bat"
-call "PsKill chromeDrivers.bat"
-call "PsKill Notepad.bat"
-call "PsKill Notepad++.bat"
-call "PsKill Slack.bat"
-call "PsKill VLC.bat"
-call "PsKill WinTaskMgr.bat"
-call "PsKill vpnui.bat"
+call PsKillEclipse.bat
+call PsKillVSCode.bat
+call PsKillRemoteDskTop_mstscExE.bat
+call PsKillIE.bat
+call PsKillChrome.bat
+call PsKillOpera.bat
+call PsKillFireFox.bat
+call PsKillGitKraken.bat
+call PsKillTaskMgrs.bat 
+call PsKillCitrixDevConnect.bat
+call PsKillGitBash.bat 
+call PsKillMightyTextApp.bat 
+call PsKillMsOutlook.bat
+call PsKillSkypeLync.bat 
+call PsKillTeamsApp.bat
+call PsKillVIPApp.bat 
+call PsKillVLC.bat
+call PsKillcmdExE.bat
+call PsKillchromeDrivers.bat
+call PsKillNotepad.bat
+call PsKillNotepad++.bat
+call PsKillSlack.bat
+call PsKillWinTaskMgr.bat
+call PsKillvpnui.bat
 
 
 

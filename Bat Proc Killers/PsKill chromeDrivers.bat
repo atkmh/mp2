@@ -1,9 +1,0 @@
-@echo off
-rem c:\sysinternals\pskill chrome.exe
-rem pause
-taskkill /F /IM chromedriver_2.38.exe
-taskkill /F /IM chromedriver_2.39.exe
-taskkill /F /IM chromedriver_2.40.exe
-taskkill /F /IM chromedriver_2.41.exe
-taskkill /F /IM chromedriver_2.42.exe
-taskkill /F /IM chromedriver_2.43.exe

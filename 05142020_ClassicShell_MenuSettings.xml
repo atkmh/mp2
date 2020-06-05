@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.3.1">
+	<MenuStyle value="Win7"/>
+	<FoldersFirst value="1"/>
+	<HideProgramsMetro value="1"/>
+	<PinnedPrograms value="PinnedItems"/>
+	<MaxRecentPrograms value="23"/>
+	<MaxJumplists value="45"/>
+	<ShutdownCommand value="CommandHibernate"/>
+	<StartScreenShortcut value="0"/>
+	<CheckWinUpdates value="0"/>
+	<ScrollType value="Auto"/>
+	<SkinW7 value="Classic Skin"/>
+	<SkinVariationW7 value=""/>
+	<SkinOptionsW7>
+		<Line>USER_IMAGE=1</Line>
+		<Line>SMALL_ICONS=1</Line>
+		<Line>THICK_BORDER=0</Line>
+		<Line>SOLID_SELECTION=0</Line>
+	</SkinOptionsW7>
+	<EnableStartButton value="0"/>
+	<StartButtonType value="AeroButton"/>
+	<SkipMetro value="1"/>
+	<OpenMouseMonitor value="0"/>
+	<MenuItems7>
+		<Line>Item1.Command=user_files</Line>
+		<Line>Item1.Settings=NOEXPAND</Line>
+		<Line>Item2.Command=user_documents</Line>
+		<Line>Item2.Settings=NOEXPAND</Line>
+		<Line>Item3.Command=user_pictures</Line>
+		<Line>Item3.Settings=NOEXPAND</Line>
+		<Line>Item4.Command=user_music</Line>
+		<Line>Item4.Settings=NOEXPAND</Line>
+		<Line>Item5.Command=user_videos</Line>
+		<Line>Item5.Settings=ITEM_DISABLED</Line>
+		<Line>Item6.Command=downloads</Line>
+		<Line>Item7.Command=homegroup</Line>
+		<Line>Item7.Settings=ITEM_DISABLED</Line>
+		<Line>Item8.Command=separator</Line>
+		<Line>Item9.Command=games</Line>
+		<Line>Item9.Settings=TRACK_RECENT</Line>
+		<Line>Item10.Command=libraries</Line>
+		<Line>Item10.Settings=OPEN_UP|NOEXPAND</Line>
+		<Line>Item11.Command=favorites</Line>
+		<Line>Item11.Settings=ITEM_DISABLED</Line>
+		<Line>Item12.Command=recent_documents</Line>
+		<Line>Item13.Command=computer</Line>
+		<Line>Item13.Settings=NOEXPAND</Line>
+		<Line>Item14.Command=network</Line>
+		<Line>Item14.Settings=ITEM_DISABLED</Line>
+		<Line>Item15.Command=network_connections</Line>
+		<Line>Item15.Settings=ITEM_DISABLED</Line>
+		<Line>Item16.Command=separator</Line>
+		<Line>Item17.Command=control_panel</Line>
+		<Line>Item17.Settings=TRACK_RECENT</Line>
+		<Line>Item18.Command=pc_settings</Line>
+		<Line>Item18.Settings=TRACK_RECENT</Line>
+		<Line>Item19.Command=admin</Line>
+		<Line>Item19.Settings=TRACK_RECENT|ITEM_DISABLED</Line>
+		<Line>Item20.Command=devices</Line>
+		<Line>Item20.Settings=NOEXPAND</Line>
+		<Line>Item21.Command=defaults</Line>
+		<Line>Item22.Command=help</Line>
+		<Line>Item23.Command=run</Line>
+		<Line>Item24.Command=apps</Line>
+		<Line>Item24.Settings=ITEM_DISABLED</Line>
+		<Line>Item25.Command=windows_security</Line>
+	</MenuItems7>
+</Settings>

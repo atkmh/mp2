@@ -24,6 +24,8 @@ call PsKillNotepad++.bat
 call PsKillSlack.bat
 call PsKillWinTaskMgr.bat
 call PsKillvpnui.bat
+call PsKillVSCode.bat
+call PsKillZoom.bat
 
 
 

@@ -90,7 +90,7 @@
     "karma-ng-html2js-preprocessor": "1.0.0",
     "karma-safari-launcher": "1.0.0",
     "karma-webdriver-launcher": "1.0.4",
-    "lodash": "4.16.6",
+    "lodash": "4.17.19",
     "log4js": "0.6.38",
     "merge2": "1.0.2",
     "minifyify": "7.3.4",

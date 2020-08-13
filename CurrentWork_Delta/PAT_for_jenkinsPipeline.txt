@@ -1,0 +1,9 @@
+8/10/2020
+Creating a token from the instructions on 
+https://atlassian/confluence/display/IT/How+to+Create+a+Jenkins+%28CloudBees%29+Pipeline
+
+
+2ec08f164c924ea3704651a8f476862b2ec5de0e
+
+
+I"m setting up so I can create a pipeline to create and upload node Package of Framework.

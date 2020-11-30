@@ -1,5 +1,9 @@
 Unix_Linux-Tips
 
+11/19/2020
+find . -maxdepth 1 -not -type d > outfile
+list all the files in a directory listing the other subdirectory folder names
+
 2/14/17
 http://unix.stackexchange.com/questions/94207/recursively-add-a-file-to-all-sub-directories
 Touch or copy to a file in every directory under a root recursively

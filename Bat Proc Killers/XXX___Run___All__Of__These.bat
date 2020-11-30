@@ -20,7 +20,7 @@ call PsKillVLC.bat
 call PsKillcmdExE.bat
 call PsKillchromeDrivers.bat
 call PsKillNotepad.bat
-call PsKillNotepad++.bat
+call PsKillNotepadPlusPlus.bat
 call PsKillSlack.bat
 call PsKillWinTaskMgr.bat
 call PsKillvpnui.bat

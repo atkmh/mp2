@@ -1,0 +1,156 @@
+00_ToDo
+
+8/7/17
+
+===========================================================
+ToDo: =====================================================
+===========================================================
+Slave02
+
+have shounak look at how to run chrome headless
+	
+============================================================
+Doing: =====================================================
+     : Put stuff her if it's going to take longer than just
+     : a moment or two to complete
+============================================================
+============================================================
+
+
+
+
+
+=============================================================
+Done: =======================================================
+
+=============================================================
+
+8/30/17
+--Acquisition Mot Run it !
+--PD MOT Run it !
+Sprint 9 Test automation stories closed
+Acq mot run kill chromedriver2.30  post run
+PD mot run kill chromedriver2.30  post run
+
+
+
+previously........  Maybe the x- means DONE ??
+x-homer
+x-Member data
+x-Status Jira tickets are they closed ?1990
+x-Ques to John W. # of Logins enabled 
+x-Ticket dhmo.1359 remove test from file name
+x-Letter JSON Mocked
+
+
+5/31/17
+Things to get on amazon
+$29 folding keyboard with touch pad
+?? USB SATA connector for use with spinright
+?? MicroSD  64 or 128 ??
+?? FlatScreens for additional monitor
+??SSD hard drives
+?? Additional External USB Hard Drives
+
+
+4/3/17 
+Facilitate running JS in Eclipse
+Get all Site uid/pids documented.
+
+
+
+Description changes
+A: Quote Start
+B: Quote Dlg Entry
+C: ok
+D: Pers Info zip wrkFlow
+E: Plan Select 2nd wrkFlow
+F: Pers Info-Again
+G: Dep reconcilliation
+
+Can I may the above a key var set that I use in the Descriptions ?? 
+Vs putting in Quotes and strings ever time. ???
+
+
+
+
+Items for reading, researching, studying on the web.
+Additionally,  I need to establish some kind of schedule for compleating these items.
+
+
+Mozilla Developer Network 
+
+Details of the Object Model
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model#
+
+JavaScript basics
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+JavaScript first steps
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
+
+JavaScript building blocks
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks
+
+Cross browser testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+
+Developer Tools
+https://developer.mozilla.org/en-US/docs/Tools
+
+Chrome DevTools
+https://developers.google.com/web/tools/chrome-devtools/
+
+
+These are hanging and need to be taken up:
+
+* Need to create a new task for the next work flow
+* Need a task to cover the documentation of the new task
+
+
+2/24/17
+Get the Jasmine reporting backup to speed
+
+2/13/17- Done: what ever was un necessary
+Do I need to implement ZOOM on the browser window to get a bigger perspective on 
+on the screen.  I was searching on this.  But did close the window cus I'd moved on.
+
+2/10/17 
+is Object-Model.js
+
+2/9/17-not much attention, but not hot again
+Get the Jasmine reporting backup to speed
+
+2/8/17-Done
+Done: Get back to Arnab: Start discussion about the off shore guy and the need for a platform to support DIT3 and test against
+Done: Get back on the jenkins slave and start testing what ever Chad has made available.
+Done: Get orig message to Manny redirected to Poornima
+
+Done: Going through my notes implement all of them in the next work flow: After changing names
+Done: Start the next work flow
+Done: Rename files, get rid of the DDCX
+TooLate: Make sure I get auto response setup for vacation time.
+Done: Need to enter details into the Doc task cxinit-278
+
+
+
+3/14/17 -Done(I don't know when )
+Get the reporting code into the POM_lab
+POM_Lab - Done
+pass in arguments
+* host D, M, for DIT3 and MOT
+* Iterations ?
+* 
+take the reporting piece and continue in POM_lab
+Total executed
+Totlal nonPass
+
+
+
+
+
+
+
+
+
+end.
